@@ -1,0 +1,8019 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;ECalibri;M220;L9
+P;ECalibri Light;M360;L55
+P;ECalibri;M300;SB;L55
+P;ECalibri;M260;SB;L55
+P;ECalibri;M220;SB;L55
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ESegoe UI;M200;L9
+P;ESegoe UI;M200;SB;L9
+F;P0;DG0G8;M300
+B;Y415;X35;D0 0 414 34
+O;L;D;U;V0;K47;G100 0.001
+C;Y1;X1;K"Sector"
+C;X2;K"Department"
+C;X3;K"PropertyCentre"
+C;X4;K"ePimsPropertyReference"
+C;X5;K"ePimsHoldingReference"
+C;X6;K"DepartmentPropertyReference"
+C;X7;K"DepartmentHoldingReference"
+C;X8;K"PropertyName"
+C;X9;K"StreetNo"
+C;X10;K"StreetName"
+C;X11;K"District"
+C;X12;K"PostTown"
+C;X13;K"PostCode"
+C;X14;K"OSGridRefEast"
+C;X15;K"OSGridRefNorth"
+C;X16;K"PropertyDescription"
+C;X17;K"RecordState"
+C;X18;K"ListedBuilding"
+C;X19;K"HoldingName"
+C;X20;K"TenureType"
+C;X21;K"LocalAuthority"
+C;X22;K"FloorArea"
+C;X23;K"HoldingType"
+C;X24;K"CoreNoneCore"
+C;X25;K"OccupancyUsage"
+C;X26;K"LandUsage"
+C;X27;K"LandAreaHA"
+C;X28;K"LandRegistryTitleNo"
+C;X29;K"UsedToDeriveExtent"
+C;X30;K"AsetValue"
+C;X31;K"ValuationDate"
+C;X32;K"AssetValueType"
+C;X33;K"ValuationAssumptions"
+C;X34;K"Uprn"
+C;X35;K"OBJECTID"
+C;Y2;X6;K"11/00003/TEN"
+C;X7;K"TEN"
+C;X8;K"Part Of Regal Car Park ="
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DN"
+C;X14;K577464
+C;X15;K135867
+C;X16;K"Car Park"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Part of Regal Car Park"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Park"
+C;X28;K"K911806"
+C;X34;K1410134033
+C;X35;K0
+C;Y3;X6;K"EM/64"
+C;X7;K"ASSET"
+C;X8;K"Footpath/Driveway Rear Of "
+C;X9;K"15-25"
+C;X10;K"Salisbury Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9DJ"
+C;X14;K559095
+C;X15;K141819
+C;X16;K"Right of Access"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Deed of Easement re Concrete Driveway To Garages."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Right of Access"
+C;X28;K"K556287"
+C;X34;K1418728767
+C;X35;K1
+C;Y4;X6;K"EM/64"
+C;X7;K"ASSET"
+C;X8;K"Footpath/Driveway Rear Of "
+C;X9;K"15-25"
+C;X10;K"Salisbury Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9DJ"
+C;X14;K559095
+C;X15;K141819
+C;X16;K"Right of Access"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Concrete Driveway To Garages = =LICENCE ASSIGNED SEPTEMBER 2003"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Right of Access"
+C;X28;K"K556287"
+C;X34;K1418728767
+C;X35;K2
+C;Y5;X6;K"10/00053/EM"
+C;X7;K"ASSET"
+C;X8;K"Road, Footpath And Parking Area Adjacent ="
+C;X9;K6
+C;X10;K"Cleavers ="
+C;X11;K"Sissinghurst"
+C;X12;K"Cranbrook"
+C;X13;K"TN17 2JU"
+C;X14;K579148
+C;X15;K137707
+C;X16;K"Right of Access"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Road, part of parking area and footpath adjacent to 6 Cleavers Close. Part adopted highway."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Right of Access"
+C;X28;K"K926120"
+C;X34;K1276752192
+C;X35;K3
+C;Y6;X6;K"88/00001/EM"
+C;X7;K"DIS"
+C;X8;K"Triangle Of Land Fronting = Day Centre = Dowding House"
+C;X10;K"Commercial Road ="
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6DP"
+C;X14;K566852
+C;X15;K144927
+C;X16;K"Right of Access"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Triangle of land fronting Health Centre"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Right of Access"
+C;X28;K"K407778"
+C;X34;K1418735067
+C;X35;K4
+C;Y7;X6;K"EM/147"
+C;X7;K"DIS"
+C;X8;K"Advertising Site At ="
+C;X9;K"65-69"
+C;X10;K"St Johns Road"
+C;X12;K"Tunbridge Wells"
+C;X14;K558321
+C;X15;K140003
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence  Advertising St Johns Road 65-69 St Johns Road = Tunbridge Wells ="
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1418733762
+C;X35;K5
+C;Y8;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Access Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K6
+C;Y9;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Large Area Of Agricultural Land"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K7
+C;Y10;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Large Area Of Agricultural Land"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K8
+C;Y11;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Grazing Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K9
+C;Y12;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Grazing Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K10
+C;Y13;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Grazing Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K11
+C;Y14;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K12
+C;Y15;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K13
+C;Y16;X6;K"EM/362"
+C;X7;K"ASSET"
+C;X8;K"Holly Farm ="
+C;X10;K"Hawkenbury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 9AD"
+C;X14;K560148
+C;X15;K138267
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K920094"
+C;X34;K1278752192
+C;X35;K14
+C;Y17;X6;K"EM/302"
+C;X7;K"ASSET"
+C;X8;K"Hawkenbury Allotments ="
+C;X10;K"Halls Hole Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4TU"
+C;X14;K560029
+C;X15;K139009
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Access License"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K930973"
+C;X34;K1410130625
+C;X35;K15
+C;Y18;X6;K"EM/302"
+C;X7;K"ASSET"
+C;X8;K"Hawkenbury Allotments ="
+C;X10;K"Halls Hole Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4TU"
+C;X14;K560029
+C;X15;K139009
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K930973"
+C;X34;K1410130625
+C;X35;K16
+C;Y19;X6;K"EM/302"
+C;X7;K"ASSET"
+C;X8;K"Hawkenbury Allotments ="
+C;X10;K"Halls Hole Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4TU"
+C;X14;K560029
+C;X15;K139009
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K930973"
+C;X34;K1410130625
+C;X35;K17
+C;Y20;X6;K"04/00003/EM"
+C;X7;K"ASSET"
+C;X8;K"Colebrook Pavilion"
+C;X10;K"Apple Tree Lane"
+C;X12;K"Tunbridge Wells"
+C;X14;K559851
+C;X15;K141571
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Parking space for the pavilion. TWBC lease from TCHG."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K120.402
+C;X23;K"Buildings Only"
+C;X25;K"Land"
+C;X28;K"K942937"
+C;X34;K1410133127
+C;X35;K18
+C;Y21;X6;K"EM/77"
+C;X7;K"ASSET"
+C;X8;K"Land Adjacent To ="
+C;X9;K65
+C;X10;K"South View Road"
+C;X12;K"Tunbridge Wells"
+C;X14;K558999
+C;X15;K141403
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence for garden land to rear of 59 Montgomery Road. Licence can be terminated by either party giving not less than four weeks written notice."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K943777"
+C;X34;K1434201170
+C;X35;K19
+C;Y22;X6;K"EM/71"
+C;X7;K"ASSET"
+C;X8;K"Doorstep Green Open Space ="
+C;X10;K"Oak Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN12 6TA"
+C;X14;K559566
+C;X15;K141424
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Grass Amenity Area.  =Licence to cross TWBC land to access their site in Clifton Road."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K943047"
+C;X34;K1410130717
+C;X35;K20
+C;Y23;X6;K"14/00357/ASSET"
+C;X7;K"ASSET"
+C;X8;K"Land Adjacent To = Clifton Cottages ="
+C;X10;K"Clifton Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3AS"
+C;X14;K559540
+C;X15;K141582
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Land adjacent to Clifton Cottages and North Farm Lane. Part of Colebrook Recreation Ground but under separate Title."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K885769"
+C;X34;K1418728685
+C;X35;K21
+C;Y24;X6;K"EM/331"
+C;X7;K"ASSET"
+C;X8;K"Grass Areas Opposite =Summervale Cottage ="
+C;X10;K"Eridge Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8HN"
+C;X14;K557366
+C;X15;K138298
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Grass Amenity Area With Path"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K278538"
+C;X34;K1418725270
+C;X35;K22
+C;Y25;X6;K"EM/441"
+C;X7;K"DIS"
+C;X8;K"Land Rear Of ="
+C;X9;K"5 to 10"
+C;X10;K"Spring Lane ="
+C;X11;K"Bidborough"
+C;X12;K"Tunbridge Wells"
+C;X14;K556734
+C;X15;K143082
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence = =Occupation has expired due to efluxion of time !6 non payment of rent.  Position agreed with Legal Services"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X34;K1410134175
+C;X35;K23
+C;Y26;X6;K"12/00306/ASSET"
+C;X7;K"DIS"
+C;X8;K"OS Plot 9551 ="
+C;X10;K"Pixot Hill"
+C;X11;K"Brenchley"
+C;X12;K"Tonbridge"
+C;X14;K567949
+C;X15;K142513
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"The licence is for the land to the rear access of 8-14 Pixot Hill."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X34;K1410129111
+C;X35;K24
+C;Y27;X6;K"EM/122"
+C;X7;K"DIS"
+C;X8;K"Grass Area Adjacent To ="
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JL"
+C;X14;K560022
+C;X15;K140675
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K943539"
+C;X34;K1276752192
+C;X35;K25
+C;Y28;X6;K"EM/514"
+C;X7;K"ASSET"
+C;X8;K"Land At = ="
+C;X10;K"Mount Pleasant"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12"
+C;X14;K566782
+C;X15;K145047
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Corner of land adjacent to Health Centre."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K407778"
+C;X34;K1418733972
+C;X35;K26
+C;Y29;X6;K"07/00002/EM"
+C;X7;K"ASSET"
+C;X8;K"Refreshment Kiosk = Grosvenor Recreation Ground"
+C;X10;K"Auckland Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2JB"
+C;X14;K559147
+C;X15;K140706
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cafe. Refreshment Kiosk - Panini on the Park"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Caf?"
+C;X34;K1410132597
+C;X35;K27
+C;Y30;X6;K"07/00002/EM"
+C;X7;K"ASSET"
+C;X8;K"Refreshment Kiosk = Grosvenor Recreation Ground"
+C;X10;K"Auckland Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2JB"
+C;X14;K559147
+C;X15;K140706
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Refreshment Kiosk - Panini on the Park"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Caf?"
+C;X34;K1410132597
+C;X35;K28
+C;Y31;X6;K"EM/371"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Borough Cemetery"
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JJ"
+C;X14;K559272
+C;X15;K137695
+C;X16;K"Storage"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Use of part of yard for storage by SKF Contractors"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Storage"
+C;X28;K"K922014"
+C;X34;K1410134951
+C;X35;K29
+C;Y32;X6;K"EM/731"
+C;X7;K"ASSET"
+C;X8;K"The Wesley Centre ="
+C;X10;K" =Commercial Road ="
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6DS"
+C;X14;K566957
+C;X15;K144946
+C;X16;K"Citizens Advice Bureau"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Part of the Community Hall ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K71.5
+C;X23;K"Buildings Only"
+C;X25;K"Citizens Advice Bureau"
+C;X28;K"K760409"
+C;X34;K1418729798
+C;X35;K30
+C;Y33;X6;K"EM/731"
+C;X7;K"ASSET"
+C;X8;K"The Wesley Centre ="
+C;X10;K" =Commercial Road ="
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6DS"
+C;X14;K566957
+C;X15;K144946
+C;X16;K"Citizens Advice Bureau"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Community. Single Storey Community Hall"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K71.5
+C;X23;K"Buildings Only"
+C;X25;K"Citizens Advice Bureau"
+C;X28;K"K760409"
+C;X34;K1418729798
+C;X35;K31
+C;Y34;X6;K"EM/731"
+C;X7;K"ASSET"
+C;X8;K"The Wesley Centre ="
+C;X10;K" =Commercial Road ="
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6DS"
+C;X14;K566957
+C;X15;K144946
+C;X16;K"Citizens Advice Bureau"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K71.5
+C;X23;K"Buildings Only"
+C;X25;K"Citizens Advice Bureau"
+C;X28;K"K760409"
+C;X34;K1418729798
+C;X35;K32
+C;Y35;X6;K"EM/372"
+C;X7;K"ASSET"
+C;X8;K"Chapel  =Tunbridge Wells Borough Cemetery"
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JJ"
+C;X14;K559197
+C;X15;K137663
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cemetery and Crematorium.  Chapel. Detached Gothic Style Building. =Licence to use Chapel for exhibition purposes."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K144
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K922014"
+C;X34;K1410134952
+C;X35;K33
+C;Y36;X6;K"EM/372"
+C;X7;K"ASSET"
+C;X8;K"Chapel  =Tunbridge Wells Borough Cemetery"
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JJ"
+C;X14;K559197
+C;X15;K137663
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cemetery and Crematorium.  Chapel. Detached Gothic Style Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K144
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K922014"
+C;X34;K1410134952
+C;X35;K34
+C;Y37;X6;K"EM/372"
+C;X7;K"ASSET"
+C;X8;K"Chapel  =Tunbridge Wells Borough Cemetery"
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JJ"
+C;X14;K559197
+C;X15;K137663
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cemetery and Crematorium.  Chapel. Detached Gothic Style Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K144
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K922014"
+C;X34;K1410134952
+C;X35;K35
+C;Y38;X6;K"EM/372"
+C;X7;K"ASSET"
+C;X8;K"Chapel  =Tunbridge Wells Borough Cemetery"
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JJ"
+C;X14;K559197
+C;X15;K137663
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cemetery and Crematorium.  Chapel. Detached Gothic Style Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K144
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K922014"
+C;X34;K1410134952
+C;X35;K36
+C;Y39;X6;K"05/00001/EM"
+C;X7;K"ASSET"
+C;X8;K"Calverley Church ="
+C;X9;K1
+C;X10;K"Market Square"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2SW"
+C;X14;K558743
+C;X15;K139800
+C;X16;K"Place of Worship"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Church building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Place of Worship"
+C;X28;K"K671430"
+C;X34;K1418726532
+C;X35;K37
+C;Y40;X6;K"12/00338/TEN"
+C;X7;K"TEN"
+C;X8;K"Tunbridge Wells Borough CouncilThe Old Fire Station"
+C;X10;K" =Stone Street"
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3HF"
+C;X14;K577666
+C;X15;K136109
+C;X16;K"Civic Building"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Use of office space in Weald Information Centre, Cranbrook"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Civic Building"
+C;X34;K1410134154
+C;X35;K38
+C;Y41;X6;K"14/00425/TEN"
+C;X7;K"TEN"
+C;X8;K"Tourist Information Centre =2 The Corn Exchange ="
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558108
+C;X15;K138706
+C;X16;K"COM"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of Unit 2 for use by TWBC Tourist Information Centre"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"COM"
+C;X34;K1410131110
+C;X35;K39
+C;Y42;X6;K"EM/118"
+C;X7;K"DIS"
+C;X8;K"Sherwood Library ="
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X16;K"COMC"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K575
+C;X23;K"Building Only"
+C;X25;K"COMC"
+C;X34;K1278752192
+C;X35;K40
+C;Y43;X6;K"06/00004/EM"
+C;X7;K"TEN"
+C;X8;K"TN2 ="
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3LZ"
+C;X14;K560088
+C;X15;K140946
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Community. YMCA Community Building"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Community Buildings"
+C;X34;K1410133798
+C;X35;K41
+C;Y44;X6;K"EM/905"
+C;X7;K"ASSET"
+C;X8;K"Camden Centre ="
+C;X9;K2
+C;X10;K"Market Square"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2SW"
+C;X14;K558743
+C;X15;K139800
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Coffee Pot Cafe facility. Coffee Pot closed and keys handed back 1.9.09."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K978.8
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X34;K1418735471
+C;X35;K42
+C;Y45;X6;K"EM/277"
+C;X7;K"ASSET"
+C;X8;K"Calverley Antiques Ltd ="
+C;X9;K30
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558723
+C;X15;K139461
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Retail. End Terrace Victorian Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K108.232
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K928571"
+C;X34;K1278752192
+C;X35;K43
+C;Y46;X6;K"EM/277"
+C;X7;K"ASSET"
+C;X8;K"Calverley Antiques Ltd ="
+C;X9;K30
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558723
+C;X15;K139461
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K108.232
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K928571"
+C;X34;K1278752192
+C;X35;K44
+C;Y47;X6;K"EM/283"
+C;X7;K"ASSET"
+C;X9;K36
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558744
+C;X15;K139479
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Retail. End Of Terrace Shop With Flat Over"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K427555"
+C;X34;K1276752192
+C;X35;K45
+C;Y48;X6;K"EM/283"
+C;X7;K"ASSET"
+C;X9;K36
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558744
+C;X15;K139479
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of premises for two years to Patrick Going from 8.10.10."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K427555"
+C;X34;K1276752192
+C;X35;K46
+C;Y49;X6;K"EM/283"
+C;X7;K"ASSET"
+C;X9;K36
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558744
+C;X15;K139479
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease withdrawn following damage to property. New lease issued to Mr Patrick Going for a term of 2 years from 8.10.10."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K427555"
+C;X34;K1276752192
+C;X35;K47
+C;Y50;X6;K"EM/283"
+C;X7;K"ASSET"
+C;X9;K36
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558744
+C;X15;K139479
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K427555"
+C;X34;K1276752192
+C;X35;K48
+C;Y51;X6;K"EM/282"
+C;X7;K"ASSET"
+C;X9;K35
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558741
+C;X15;K139477
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Retail. Mid Terrace Shop With Flat Over"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K392114"
+C;X34;K1276752192
+C;X35;K49
+C;Y52;X6;K"EM/282"
+C;X7;K"ASSET"
+C;X9;K35
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558741
+C;X15;K139477
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K392114"
+C;X34;K1276752192
+C;X35;K50
+C;Y53;X6;K"EM/288"
+C;X7;K"ASSET"
+C;X8;K"Calverley Park Cafe ="
+C;X10;K"Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2SH"
+C;X14;K558655
+C;X15;K139294
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cafe. Single Storey Detached Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K62.988
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K923452"
+C;X34;K1418735339
+C;X35;K51
+C;Y54;X6;K"EM/288"
+C;X7;K"ASSET"
+C;X8;K"Calverley Park Cafe ="
+C;X10;K"Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2SH"
+C;X14;K558655
+C;X15;K139294
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K62.988
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K923452"
+C;X34;K1418735339
+C;X35;K52
+C;Y55;X6;K"EM/288"
+C;X7;K"ASSET"
+C;X8;K"Calverley Park Cafe ="
+C;X10;K"Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2SH"
+C;X14;K558655
+C;X15;K139294
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K62.988
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K923452"
+C;X34;K1418735339
+C;X35;K53
+C;Y56;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K54
+C;Y57;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K55
+C;Y58;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K56
+C;Y59;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K57
+C;Y60;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K58
+C;Y61;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K59
+C;Y62;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K60
+C;Y63;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K61
+C;Y64;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Land Accessed By Dirt Track"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K62
+C;Y65;X6;K"EM/485"
+C;X7;K"ASSET"
+C;X8;K"Land To Rear Of  =Capel Scrap Yard ="
+C;X10;K"Sychem Lane ="
+C;X11;K"Five Oak Green"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6TT"
+C;X14;K564116
+C;X15;K144381
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K416523"
+C;X34;K1410131568
+C;X35;K63
+C;Y66;X6;K"EM/245"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park Cafe ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K559891
+C;X15;K139593
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cafe. 1/2 Storey Structure, Part On Stilts"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.253
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K930547"
+C;X34;K1278752192
+C;X35;K64
+C;Y67;X6;K"EM/245"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park Cafe ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K559891
+C;X15;K139593
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.253
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K930547"
+C;X34;K1278752192
+C;X35;K65
+C;Y68;X6;K"EM/245"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park Cafe ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K559891
+C;X15;K139593
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =(Surrendered due to incorrect provision within Lease)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.253
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K930547"
+C;X34;K1278752192
+C;X35;K66
+C;Y69;X6;K"EM/245"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park Cafe ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K559891
+C;X15;K139593
+C;X16;K"Caf?"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.253
+C;X23;K"Building Only"
+C;X25;K"Caf?"
+C;X28;K"K930547"
+C;X34;K1278752192
+C;X35;K67
+C;Y70;X6;K"EM/28"
+C;X7;K"ASSET"
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease completed 8 June 2007 between Robin Antony Foster ;; Nigel Morris Stratton;; and Gerald Ray being the Trustees of Southborough and High Brooms Age Concern"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K39.3
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"UNREGISTERED"
+C;X34;K1418727686
+C;X35;K68
+C;Y71;X6;K"EM/28"
+C;X7;K"ASSET"
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =Lease completed on 03.01.2002 between TWBC !6 RA Foster;; GH Hart !6 NM Stratton"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K39.3
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"UNREGISTERED"
+C;X34;K1418727686
+C;X35;K69
+C;Y72;X6;K"EM/28"
+C;X7;K"ASSET"
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =Lease completed on 03.01.2002 in the name of R A Foster and other Trustees"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K39.3
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"UNREGISTERED"
+C;X34;K1418727686
+C;X35;K70
+C;Y73;X6;K"EM/29"
+C;X7;K"ASSET"
+C;X8;K"Southborough Town Council ="
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X16;K"Civic Building"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"User Rights"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K114.5
+C;X23;K"Building Only"
+C;X25;K"Civic Building"
+C;X28;K"UNREGISTERED"
+C;X34;K1418727686
+C;X35;K71
+C;Y74;X6;K"EM/306"
+C;X7;K"ASSET"
+C;X8;K"The Forum ="
+C;X10;K"The Common"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8YU"
+C;X14;K558126
+C;X15;K138850
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of 999 years = ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K147.3
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X28;K"K925749"
+C;X34;K1418725892
+C;X35;K72
+C;Y75;X6;K"EM/306"
+C;X7;K"ASSET"
+C;X8;K"The Forum ="
+C;X10;K"The Common"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8YU"
+C;X14;K558126
+C;X15;K138850
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =Property disposed on Long leasehold to Tenants"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K147.3
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X28;K"K925749"
+C;X34;K1418725892
+C;X35;K73
+C;Y76;X6;K"EM/140"
+C;X7;K"ASSET"
+C;X9;K"59A"
+C;X10;K"St Johns Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9TT"
+C;X14;K558190
+C;X15;K140418
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K200
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K286012"
+C;X34;K1418727083
+C;X35;K74
+C;Y77;X6;K"EM/153"
+C;X7;K"DIS"
+C;X8;K"Unit 3 = Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property sold."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Depot"
+C;X34;K1418726769
+C;X35;K75
+C;Y78;X6;K"EM/725"
+C;X7;K"DIS"
+C;X8;K"Part Of Lower Yard  =Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Depot"
+C;X34;K1418726766
+C;X35;K76
+C;Y79;X6;K"EM/150"
+C;X7;K"DIS"
+C;X8;K"Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Agreement. Property sold."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Depot"
+C;X34;K1418726766
+C;X35;K77
+C;Y80;X6;K"EM/155"
+C;X7;K"DIS"
+C;X8;K"Unit 7  =Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Depot"
+C;X34;K1418726766
+C;X35;K78
+C;Y81;X6;K"EM/156"
+C;X7;K"DIS"
+C;X8;K"Units 8 And 10 = Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =Surrendered. Property sold."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Depot"
+C;X34;K1418726766
+C;X35;K79
+C;Y82;X6;K"EM/159"
+C;X7;K"DIS"
+C;X8;K"Lower Yard  =Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Depot"
+C;X34;K1418726766
+C;X35;K80
+C;Y83;X6;K"EM/724"
+C;X7;K"DIS"
+C;X8;K"Unit  =Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land/Building"
+C;X25;K"Depot"
+C;X34;K1418726808
+C;X35;K81
+C;Y84;X6;K"EM/152"
+C;X7;K"DIS"
+C;X8;K"Unit 2  =Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land/Building"
+C;X25;K"Depot"
+C;X34;K1418726808
+C;X35;K82
+C;Y85;X6;K"EM/154"
+C;X7;K"DIS"
+C;X8;K"Unit 3A  =Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property sold."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land/Building"
+C;X25;K"Depot"
+C;X34;K1418727290
+C;X35;K83
+C;Y86;X6;K"EM/168"
+C;X7;K"DIS"
+C;X9;K142
+C;X10;K"Camden Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2QZ"
+C;X14;K558914
+C;X15;K140044
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K90
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418726821
+C;X35;K84
+C;Y87;X6;K"EM/520"
+C;X7;K"DIS"
+C;X9;K"Unit 3 ="
+C;X10;K"Clavadel Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6EW"
+C;X14;K567052
+C;X15;K145054
+C;X16;K"Ferry Port"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =PROPERTY SOLD 1 AUGUST 2007"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Ferry Port"
+C;X34;K1418735243
+C;X35;K85
+C;Y88;X6;K"EM/520"
+C;X7;K"DIS"
+C;X9;K"Unit 3 ="
+C;X10;K"Clavadel Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6EW"
+C;X14;K567052
+C;X15;K145054
+C;X16;K"Ferry Port"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Ferry Port"
+C;X34;K1418735243
+C;X35;K86
+C;Y89;X6;K"EM/521"
+C;X7;K"DIS"
+C;X9;K"Unit 4"
+C;X10;K"Clavadel Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6EW"
+C;X14;K567054
+C;X15;K145057
+C;X16;K"Ferry Port"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =(Lease surrendered 10/05/04)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Ferry Port"
+C;X34;K1418735245
+C;X35;K87
+C;Y90;X6;K"EM/114"
+C;X7;K"DIS"
+C;X9;K106
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X14;K560111
+C;X15;K140981
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K63.58
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1278752192
+C;X35;K88
+C;Y91;X6;K"EM/116"
+C;X7;K"DIS"
+C;X9;K106
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X14;K560118
+C;X15;K140978
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K66.03
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1278752192
+C;X35;K89
+C;Y92;X6;K"EM/112"
+C;X7;K"DIS"
+C;X9;K102
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X14;K560105
+C;X15;K140985
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K55.6
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1278752192
+C;X35;K90
+C;Y93;X6;K"EM/198"
+C;X7;K"DIS"
+C;X9;K98
+C;X10;K"Sherwood Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3LH"
+C;X14;K559972
+C;X15;K140273
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418728626
+C;X35;K91
+C;Y94;X6;K"EM/198"
+C;X7;K"DIS"
+C;X9;K98
+C;X10;K"Sherwood Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3LH"
+C;X14;K559972
+C;X15;K140273
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418728626
+C;X35;K92
+C;Y95;X6;K"EM/332"
+C;X7;K"DIS"
+C;X9;K3
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557489
+C;X15;K138225
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =PROPERTY SOLD 30/09/2003"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K156.077
+C;X23;K"Buildings Only"
+C;X25;K"Retail"
+C;X34;K1278752192
+C;X35;K93
+C;Y96;X6;K"EM/335"
+C;X7;K"DIS"
+C;X9;K4
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557478
+C;X15;K138225
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K128.4
+C;X23;K"Buildings Only"
+C;X25;K"Retail"
+C;X34;K1418725284
+C;X35;K94
+C;Y97;X6;K"EM/551"
+C;X7;K"DIS"
+C;X8;K"The Old Fish Market ="
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TN"
+C;X16;K"Civic Building"
+C;X17;K"DISP"
+C;X18;K"Grade II"
+C;X19;K"Lease made on 20/11/1992 between The Trustees to the Manor of Rusthall and TWBC - the Tenant ="
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X22;K62.93
+C;X23;K"Building Only"
+C;X25;K"Civic Building"
+C;X34;K1418725878
+C;X35;K95
+C;Y98;X6;K"EM/12"
+C;X7;K"DIS"
+C;X9;K6
+C;X10;K"Woolley Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0LG"
+C;X14;K557770
+C;X15;K142090
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =THIS PROPERTY HAS BEEN SOLD 18.04.2002"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1418725520
+C;X35;K96
+C;Y99;X6;K"08/00002/EM"
+C;X7;K"DIS"
+C;X9;K138
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =Lease completed on 03.01.2002 in the name of R A Foster and other Trustees"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K51.19
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418727686
+C;X35;K97
+C;Y100;X6;K"08/00001/EM"
+C;X7;K"DIS"
+C;X8;K"Part Ground Floor "
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K51.19
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418727686
+C;X35;K98
+C;Y101;X6;K"08/00001/EM"
+C;X7;K"DIS"
+C;X8;K"Part Ground Floor "
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease. Property vacant."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K51.19
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418727686
+C;X35;K99
+C;Y102;X6;K"EM/344"
+C;X7;K"DIS"
+C;X9;K2
+C;X10;K"Ropers Gate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8JE"
+C;X14;K557290
+C;X15;K138318
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K84.4
+C;X23;K"Buildings Only"
+C;X25;K"Retail"
+C;X34;K1418725281
+C;X35;K100
+C;Y103;X6;K"EM/343"
+C;X7;K"DIS"
+C;X9;K3
+C;X10;K"Ropers Gate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8JE"
+C;X14;K557297
+C;X15;K138318
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K84.4
+C;X23;K"Buildings Only"
+C;X25;K"Retail"
+C;X34;K1278752192
+C;X35;K101
+C;Y104;X6;K"EM/342"
+C;X7;K"DIS"
+C;X9;K"1 to 2"
+C;X10;K"Ropers Gate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8JE"
+C;X14;K557306
+C;X15;K138307
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"End Terrace Lock-Up Shop ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K84.4
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418725282
+C;X35;K102
+C;Y105;X6;K"EM/342"
+C;X7;K"DIS"
+C;X9;K"1 to 2"
+C;X10;K"Ropers Gate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8JE"
+C;X14;K557306
+C;X15;K138307
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"End Terrace Lock-Up Shop =(Lease assigned to Mr E Sadadcharam 05/00006/LSE)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K84.4
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418725282
+C;X35;K103
+C;Y106;X6;K"EM/342"
+C;X7;K"DIS"
+C;X9;K"1 to 2"
+C;X10;K"Ropers Gate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8JE"
+C;X14;K557306
+C;X15;K138307
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =(Lease assigned to tenants who later went bankrupt.  Forfeiture accepted)."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K84.4
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418725282
+C;X35;K104
+C;Y107;X6;K"EM/59"
+C;X7;K"DIS"
+C;X9;K103
+C;X10;K"Powder Mill Lane ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9DX"
+C;X14;K558984
+C;X15;K141879
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K58
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K105
+C;Y108;X6;K"EM/160"
+C;X7;K"DIS"
+C;X9;K37
+C;X10;K"Quarry Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2EZ"
+C;X14;K558931
+C;X15;K140276
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X28;K"K921311"
+C;X34;K1276752192
+C;X35;K106
+C;Y109;X6;K"EM/337"
+C;X7;K"ASSET"
+C;X9;K3
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557470
+C;X15;K138230
+C;X16;K"Community Buildings"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"This unit forms part of Doctors surgery.  Record can be deleted.  See Rowan Tree Road Surgery file"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X34;K1278752192
+C;X35;K107
+C;Y110;X6;K"EM/515"
+C;X7;K"ASSET"
+C;X8;K"Car Park"
+C;X10;K" =Commercial Road ="
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6EL"
+C;X14;K566969
+C;X15;K145094
+C;X16;K"Car Park"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Car Park. Public Pay & Display Car Park. Licence to erect scaffold."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Park"
+C;X28;K"K510994 AND K519820"
+C;X34;K1418735154
+C;X35;K108
+C;Y111;X6;K"EM/229"
+C;X7;K"ASSET"
+C;X8;K"The Garden Hall Club"
+C;X10;K"Wood Street"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2QS"
+C;X14;K558896
+C;X15;K139856
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K442.776
+C;X23;K"Buildings Only"
+C;X25;K"Community Buildings"
+C;X28;K"K146850"
+C;X34;K1278752192
+C;X35;K109
+C;Y112;X6;K"EM/229"
+C;X7;K"ASSET"
+C;X8;K"The Garden Hall Club"
+C;X10;K"Wood Street"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2QS"
+C;X14;K558896
+C;X15;K139856
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K442.776
+C;X23;K"Buildings Only"
+C;X25;K"Community Buildings"
+C;X28;K"K146850"
+C;X34;K1278752192
+C;X35;K110
+C;Y113;X6;K"EM/508"
+C;X7;K"ASSET"
+C;X8;K"Day Centre = Dowding House ="
+C;X10;K"Commercial Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6DP"
+C;X14;K566852
+C;X15;K144927
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Community. Single Storey Detached Structure"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Community Buildings"
+C;X28;K"K338392/K345845"
+C;X34;K1418735067
+C;X35;K111
+C;Y114;X6;K"EM/508"
+C;X7;K"ASSET"
+C;X8;K"Day Centre = Dowding House ="
+C;X10;K"Commercial Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6DP"
+C;X14;K566852
+C;X15;K144927
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Community Buildings"
+C;X28;K"K338392/K345845"
+C;X34;K1418735067
+C;X35;K112
+C;Y115;X6;K"EM/702"
+C;X7;K"DIS"
+C;X9;K47
+C;X10;K"Station Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6AB"
+C;X14;K566915
+C;X15;K145131
+C;X16;K"Community Buildings"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease (Excl) = =(Property sold 6/7/04)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K130.6
+C;X23;K"Buildings Only"
+C;X25;K"Community Buildings"
+C;X34;K1278752192
+C;X35;K113
+C;Y116;X6;K"EM/639"
+C;X7;K"DIS"
+C;X8;K"Ex Council Yard  =Adjacent To ="
+C;X9;K1
+C;X10;K"Woolley Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0LE"
+C;X14;K557781
+C;X15;K142058
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence/Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Depot"
+C;X28;K"K943617"
+C;X34;K1276752192
+C;X35;K114
+C;Y117;X6;K"EM/639"
+C;X7;K"DIS"
+C;X8;K"Ex Council Yard  =Adjacent To ="
+C;X9;K1
+C;X10;K"Woolley Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0LE"
+C;X14;K557781
+C;X15;K142058
+C;X16;K"Depot"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence/Lease surrendered. Keys returned. Property vacant"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Depot"
+C;X28;K"K943617"
+C;X34;K1276752192
+C;X35;K115
+C;Y118;X6;K"EM/900"
+C;X7;K"DIS"
+C;X8;K"West Kent College Site = Adjacent To Boys Grammar School ="
+C;X10;K"St Johns Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9XB"
+C;X14;K558237
+C;X15;K141497
+C;X16;K"Community Buildings"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Community Buildings"
+C;X34;K1418727468
+C;X35;K116
+C;Y119;X6;K"EM/40"
+C;X7;K"ASSET"
+C;X8;K"Southborough Town Council ="
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Offices. Large detached structure."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X28;K"UNREGISTERED"
+C;X34;K1418727686
+C;X35;K117
+C;Y120;X6;K"EM/730"
+C;X7;K"DIS"
+C;X8;K"Garage Site ="
+C;X10;K" =Southwood Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4"
+C;X14;K555802
+C;X15;K140204
+C;X16;K"Garage"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Garage"
+C;X28;K"K943455"
+C;X34;K1410134045
+C;X35;K118
+C;Y121;X6;K"EM/555"
+C;X7;K"ASSET"
+C;X9;K26
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559687
+C;X15;K138628
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K119
+C;Y122;X6;K"EM/554"
+C;X7;K"ASSET"
+C;X9;K24
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559683
+C;X15;K138627
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K120
+C;Y123;X6;K"EM/557"
+C;X7;K"ASSET"
+C;X9;K30
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559698
+C;X15;K138630
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K121
+C;Y124;X6;K"EM/553"
+C;X7;K"ASSET"
+C;X9;K20
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559675
+C;X15;K138624
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land. Area Of Land Licensed As Garden Extension."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K122
+C;Y125;X6;K"EM/553"
+C;X7;K"ASSET"
+C;X9;K20
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559675
+C;X15;K138624
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K123
+C;Y126;X6;K"EM/558"
+C;X7;K"ASSET"
+C;X9;K34
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559707
+C;X15;K138632
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Land Licensed As Garden Extension."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K124
+C;Y127;X6;K"EM/558"
+C;X7;K"ASSET"
+C;X9;K34
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559707
+C;X15;K138632
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K125
+C;Y128;X6;K"EM/556"
+C;X7;K"ASSET"
+C;X9;K28
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559694
+C;X15;K138629
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K126
+C;Y129;X6;K"EM/722"
+C;X7;K"ASSET"
+C;X9;K32
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559703
+C;X15;K138632
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Land Licensed As Garden Extension"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K127
+C;Y130;X6;K"EM/722"
+C;X7;K"ASSET"
+C;X9;K32
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559703
+C;X15;K138632
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K128
+C;Y131;X6;K"04/00004/EM"
+C;X7;K"DIS"
+C;X8;K"Land Between Rookley Close And ="
+C;X10;K"Forest Road"
+C;X12;K"Tunbridge Wells"
+C;X14;K559761
+C;X15;K138870
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence to Mr Vanns"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1410134942
+C;X35;K129
+C;Y132;X6;K"04/00004/EM"
+C;X7;K"DIS"
+C;X8;K"Land Between Rookley Close And ="
+C;X10;K"Forest Road"
+C;X12;K"Tunbridge Wells"
+C;X14;K559761
+C;X15;K138870
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence to Mr Vanns"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1410134942
+C;X35;K130
+C;Y133;X6;K"12/00307/ASSET"
+C;X7;K"ASSET"
+C;X9;K16
+C;X10;K"Napier Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5AT"
+C;X14;K559665
+C;X15;K138620
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land at rear licensed as garden land. Licence can be terminated by either party giving 6 weeks notice in writing. See Licence for full details."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K131
+C;Y134;X6;K"04/00001/LIC"
+C;X7;K"ASSET"
+C;X8;K"Land Adjacent To 17"
+C;X9;K17
+C;X10;K"Pearse Place"
+C;X11;K"Lamberhurst"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 8EJ"
+C;X14;K567556
+C;X15;K136050
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Garden Land adjacent to 17 Pearse Place, Lamberhurst = =LICENCE RUNS FOR ONE YEAR THEN FROM YEAR TO YEAR ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K400035"
+C;X34;K1418729989
+C;X35;K132
+C;Y135;X6;K"04/00001/LIC"
+C;X7;K"ASSET"
+C;X8;K"Land Adjacent To 17"
+C;X9;K17
+C;X10;K"Pearse Place"
+C;X11;K"Lamberhurst"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 8EJ"
+C;X14;K567556
+C;X15;K136050
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Garden Land adjacent to 17 Pearse Place =Lamberhurst"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K400035"
+C;X34;K1418729989
+C;X35;K133
+C;Y136;X6;K"EM/690"
+C;X7;K"DIS"
+C;X8;K"Land To Rear"
+C;X9;K"40-46 ="
+C;X10;K"Charles Street"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0DS"
+C;X14;K558079
+C;X15;K141805
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K944868"
+C;X34;K1276752192
+C;X35;K134
+C;Y137;X6;K"04/00002/LIC"
+C;X7;K"DIS"
+C;X8;K"Land Adjoining 15"
+C;X9;K15
+C;X10;K"Connaught Way ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9QJ"
+C;X14;K557748
+C;X15;K140178
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Strip of land"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1276752192
+C;X35;K135
+C;Y138;X6;K"EM/450"
+C;X7;K"ASSET"
+C;X8;K"Land Fronting Colebrook Industrial Estate"
+C;X10;K"Longfield Road ="
+C;X12;K"Tunbridge Wells"
+C;X14;K560053
+C;X15;K141956
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Permission to erect a signboard on land owned by Daejan Investments Ltd. No rent charged. Either party can terminate by giving 3 calendar months notice."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K943580"
+C;X34;K1410130087
+C;X35;K136
+C;Y139;X6;K"EM/670"
+C;X7;K"ASSET"
+C;X8;K"Land Adjacent To ="
+C;X10;K"Hilbert Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3SA"
+C;X14;K559406
+C;X15;K140268
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K925824"
+C;X34;K1410134973
+C;X35;K137
+C;Y140;X6;K"EM/642"
+C;X7;K"DIS"
+C;X8;K"Land Adjoining The =Old Palace ="
+C;X10;K"High Street"
+C;X11;K"Brenchley"
+C;X12;K"Tonbridge"
+C;X14;K567928
+C;X15;K141819
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence = =(Transferred to Brenchley Parish Council)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1418730055
+C;X35;K138
+C;Y141;X6;K"EM/505"
+C;X7;K"DIS"
+C;X9;K14
+C;X10;K"Pixot Hill"
+C;X11;K"Brenchley"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 7BD"
+C;X14;K567944
+C;X15;K142487
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Transfer"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X34;K1418730081
+C;X35;K139
+C;Y142;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Paved area outside the Community Centre - 3 raised planter beds"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Land"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K140
+C;Y143;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Paved area outside the Community Centre - 3 raised planter beds"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Land"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K141
+C;Y144;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Community. Single Storey Detached Building."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K142
+C;Y145;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Community. Single Storey Detached Building."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K143
+C;Y146;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Single Storey Detached Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K144
+C;Y147;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Single Storey Detached Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K145
+C;Y148;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of part of Showfields Hall"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K146
+C;Y149;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of part of Showfields Hall"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K147
+C;Y150;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K148
+C;Y151;X6;K"EM/351"
+C;X7;K"ASSET"
+C;X8;K"Community Centre ="
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PR"
+C;X14;K557497
+C;X15;K138187
+C;X16;K"Sports Hall"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K284.9
+C;X23;K"Buildings Only"
+C;X25;K"Sports Hall"
+C;X28;K"K278538"
+C;X34;K1278752192
+C;X35;K149
+C;Y152;X6;K"EM/550"
+C;X7;K"ASSET"
+C;X8;K"Cinder Hill Wood Gypsy Caravan Site"
+C;X10;K"Five Wents"
+C;X11;K" =Matfield"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 7EF"
+C;X14;K565306
+C;X15;K142453
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"4 Plots With Amenity Blocks, 3 Tolerated.  Separate Licences for each plot.  Rent is accumulative rent for all plots. 6 Plots for rental purposes."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K936196"
+C;X34;K1418729593
+C;X35;K150
+C;Y153;X6;K"12/00310/TEN"
+C;X7;K"DIS"
+C;X9;K9
+C;X10;K"All Saints Road ="
+C;X11;K"Hawkhurst"
+C;X12;K"Cranbrook"
+C;X13;K"TN18 4HR"
+C;X14;K576261
+C;X15;K130405
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property rented by TWBC from Town and Country Housing Group for temporary accommodation. = ="
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K151
+C;Y154;X6;K"EM/298"
+C;X7;K"DIS"
+C;X9;K27
+C;X10;K"George Street"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4SR"
+C;X14;K559218
+C;X15;K139237
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence = =Property Vacant, disposal pending. Property sold."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K152
+C;Y155;X6;K"EM/552"
+C;X7;K"ASSET"
+C;X8;K"North Farm House ="
+C;X10;K"Dowding Way ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3UY"
+C;X14;K559653
+C;X15;K141740
+C;X16;K"Hostel"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Hostel = =(See ownership/Asset Value ref:- EM/552)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K115.7
+C;X23;K"Buildings Only"
+C;X25;K"Hostel"
+C;X34;K1278752192
+C;X35;K153
+C;Y156;X6;K"EM/552"
+C;X7;K"ASSET"
+C;X8;K"North Farm House ="
+C;X10;K"Dowding Way"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3UY"
+C;X14;K559653
+C;X15;K141740
+C;X16;K"Hostel"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K115.7
+C;X23;K"Buildings Only"
+C;X25;K"Hostel"
+C;X34;K1278752192
+C;X35;K154
+C;Y157;X6;K"EM/538"
+C;X7;K"ASSET"
+C;X9;K12
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X14;K560391
+C;X15;K142107
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.381
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K155
+C;Y158;X6;K"EM/538"
+C;X7;K"ASSET"
+C;X9;K12
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X14;K560391
+C;X15;K142107
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.381
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K156
+C;Y159;X6;K"EM/544"
+C;X7;K"ASSET"
+C;X9;K18
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560367
+C;X15;K142092
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.345
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K157
+C;Y160;X6;K"EM/544"
+C;X7;K"ASSET"
+C;X9;K18
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560367
+C;X15;K142092
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.345
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K158
+C;Y161;X6;K"EM/542"
+C;X7;K"ASSET"
+C;X9;K16
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560375
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410134554
+C;X35;K159
+C;Y162;X6;K"EM/542"
+C;X7;K"ASSET"
+C;X9;K16
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560375
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410134554
+C;X35;K160
+C;Y163;X6;K"EM/542"
+C;X7;K"ASSET"
+C;X9;K16
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560375
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =99/00004 assigned from Mark Humphreys to Mr Mark Taylor"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410134554
+C;X35;K161
+C;Y164;X6;K"EM/542"
+C;X7;K"ASSET"
+C;X9;K16
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560375
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =EM/542 assigned from Mr Badu and Mr Fuller to Mark Humphreys"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410134554
+C;X35;K162
+C;Y165;X6;K"EM/542"
+C;X7;K"ASSET"
+C;X9;K16
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560375
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of light industrial unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410134554
+C;X35;K163
+C;Y166;X6;K"EM/542"
+C;X7;K"ASSET"
+C;X9;K16
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560375
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =Assigned to Mark Humphreys please see 99/00004/LSE"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410134554
+C;X35;K164
+C;Y167;X6;K"EM/543"
+C;X7;K"ASSET"
+C;X9;K17
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560373
+C;X15;K142098
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131012
+C;X35;K165
+C;Y168;X6;K"EM/543"
+C;X7;K"ASSET"
+C;X9;K17
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560373
+C;X15;K142098
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131012
+C;X35;K166
+C;Y169;X6;K"EM/543"
+C;X7;K"ASSET"
+C;X9;K17
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560373
+C;X15;K142098
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Light Industrial Unit = =(Previous 99/00003/LSE Assigned from Mark Humphreys to Mark Taylor 21.12.2005)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131012
+C;X35;K167
+C;Y170;X6;K"EM/543"
+C;X7;K"ASSET"
+C;X9;K17
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560373
+C;X15;K142098
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Light Industrial Unit = =(Previous EM/543/LSE Assigned to Mark Humphreys from Mr Badu !6 Mr Fuller)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131012
+C;X35;K168
+C;Y171;X6;K"EM/543"
+C;X7;K"ASSET"
+C;X9;K17
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560373
+C;X15;K142098
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Light Industrial Unit = =Assigned to Mark Humphreys please refer to 99/00003/LSE"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131012
+C;X35;K169
+C;Y172;X6;K"EM/545"
+C;X7;K"ASSET"
+C;X9;K19
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560361
+C;X15;K142091
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K43.3
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K170
+C;Y173;X6;K"EM/545"
+C;X7;K"ASSET"
+C;X9;K19
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560361
+C;X15;K142091
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K43.3
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K171
+C;Y174;X6;K"EM/545"
+C;X7;K"ASSET"
+C;X9;K19
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560361
+C;X15;K142091
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K43.3
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K172
+C;Y175;X6;K"EM/545"
+C;X7;K"ASSET"
+C;X9;K19
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560361
+C;X15;K142091
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K43.3
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K173
+C;Y176;X6;K"EM/540"
+C;X7;K"ASSET"
+C;X9;K14
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560384
+C;X15;K142101
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K174
+C;Y177;X6;K"EM/540"
+C;X7;K"ASSET"
+C;X9;K14
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560384
+C;X15;K142101
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K175
+C;Y178;X6;K"EM/540"
+C;X7;K"ASSET"
+C;X9;K14
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560384
+C;X15;K142101
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K176
+C;Y179;X6;K"EM/540"
+C;X7;K"ASSET"
+C;X9;K14
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560384
+C;X15;K142101
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease is contracted out of the Landlord and Tenant Act 1954. When the contractual term of the lease expires the tenant has no right to hold over. TWBC not to demand any rent after 7 February 2016."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K177
+C;Y180;X6;K"EM/540"
+C;X7;K"ASSET"
+C;X9;K14
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560384
+C;X15;K142101
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K178
+C;Y181;X6;K"EM/539"
+C;X7;K"ASSET"
+C;X9;K13
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560388
+C;X15;K142104
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit. Vacant."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.7
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K179
+C;Y182;X6;K"EM/539"
+C;X7;K"ASSET"
+C;X9;K13
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560388
+C;X15;K142104
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.7
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K180
+C;Y183;X6;K"EM/539"
+C;X7;K"ASSET"
+C;X9;K13
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560388
+C;X15;K142104
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.7
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K181
+C;Y184;X6;K"EM/539"
+C;X7;K"ASSET"
+C;X9;K13
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560388
+C;X15;K142104
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K47.7
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K182
+C;Y185;X6;K"EM/537"
+C;X7;K"ASSET"
+C;X9;K11
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560383
+C;X15;K142127
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1418729057
+C;X35;K183
+C;Y186;X6;K"EM/537"
+C;X7;K"ASSET"
+C;X9;K11
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560383
+C;X15;K142127
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =Assigned from Mr Badu to Mark Humphreys 9 November 2001"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1418729057
+C;X35;K184
+C;Y187;X6;K"EM/537"
+C;X7;K"ASSET"
+C;X9;K11
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560383
+C;X15;K142127
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =(Assigned from Mr A Badu to Mark Humphreys 9 November 2001 & Lease assigned from Mark Humphreys to Scuffbusters Ltd on 14 July 2006)."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1418729057
+C;X35;K185
+C;Y188;X6;K"EM/535"
+C;X7;K"ASSET"
+C;X9;K9
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560372
+C;X15;K142122
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K186
+C;Y189;X6;K"EM/535"
+C;X7;K"ASSET"
+C;X9;K9
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560372
+C;X15;K142122
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K187
+C;Y190;X6;K"EM/535"
+C;X7;K"ASSET"
+C;X9;K9
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560372
+C;X15;K142122
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =Assigned from Mr Mayo to Mr Waghorn by way of Licence to Assign dated 2 July 2008"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1278752192
+C;X35;K188
+C;Y191;X6;K"EM/536"
+C;X7;K"ASSET"
+C;X9;K10
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560383
+C;X15;K142127
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =Assigned from Mr Badu to Mark Humphreys 9 November 2001"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1418729057
+C;X35;K189
+C;Y192;X6;K"EM/536"
+C;X7;K"ASSET"
+C;X9;K10
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560383
+C;X15;K142127
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =(Assigned from Mr A Badu to Mark Humphreys 9 November 2001 & Lease assigned from Mark Humphreys to Scuffbusters Ltd on 14 July 2006)."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Buildings Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1418729057
+C;X35;K190
+C;Y193;X6;K"EM/541"
+C;X7;K"ASSET"
+C;X9;K15
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560379
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Building Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131011
+C;X35;K191
+C;Y194;X6;K"EM/541"
+C;X7;K"ASSET"
+C;X9;K15
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560379
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Industrial Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Building Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131011
+C;X35;K192
+C;Y195;X6;K"EM/541"
+C;X7;K"ASSET"
+C;X9;K15
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560379
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease/Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Building Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131011
+C;X35;K193
+C;Y196;X6;K"EM/541"
+C;X7;K"ASSET"
+C;X9;K15
+C;X10;K"Colebrook Industrial Estate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3DG"
+C;X14;K560379
+C;X15;K142100
+C;X16;K"Industrial"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease/Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50
+C;X23;K"Building Only"
+C;X25;K"Industrial"
+C;X28;K"K943580"
+C;X34;K1410131011
+C;X35;K194
+C;Y197;X6;K"EM/757"
+C;X7;K"DIS"
+C;X8;K"Workshop 9 = Medway Depot ="
+C;X10;K"St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Industrial"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property sold."
+C;X20;K"Other, PF"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Industrial"
+C;X34;K1418726766
+C;X35;K195
+C;Y198;X6;K"EM/759"
+C;X7;K"DIS"
+C;X8;K"Workshop 9  =Medway Depot ="
+C;X10;K"St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Industrial"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease. Property sold."
+C;X20;K"Other, PF"
+C;X21;K"Tunbridge Wells"
+C;X22;K111.484
+C;X23;K"Building Only"
+C;X25;K"Industrial"
+C;X34;K1418726766
+C;X35;K196
+C;Y199;X6;K"EM/46"
+C;X7;K"DIS"
+C;X8;K"Garage = Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Industrial"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Industrial"
+C;X34;K1418726766
+C;X35;K197
+C;Y200;X6;K"EM/728"
+C;X7;K"DIS"
+C;X8;K"WorkshopMedway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Industrial"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K27.871
+C;X23;K"Land/Building"
+C;X25;K"Industrial"
+C;X34;K1418726808
+C;X35;K198
+C;Y201;X6;K"EM/151"
+C;X7;K"DIS"
+C;X8;K"Unit 1Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Industrial"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land/Building"
+C;X25;K"Industrial"
+C;X34;K1418727290
+C;X35;K199
+C;Y202;X6;K"EM/119"
+C;X7;K"DIS"
+C;X8;K"Sherwood Library ="
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X16;K"Library"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K102.844
+C;X23;K"Building Only"
+C;X25;K"Library"
+C;X34;K1278752192
+C;X35;K200
+C;Y203;X6;K"EM/413"
+C;X7;K"ASSET"
+C;X8;K"The Museum ="
+C;X10;K" =Carriers Road ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3JX"
+C;X14;K577537
+C;X15;K136189
+C;X16;K"Museum"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Museum. Part Of Large Detached Tudor Building, Museum"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K436.1
+C;X23;K"Building Only"
+C;X25;K"Museum"
+C;X28;K"K387190"
+C;X34;K1278752192
+C;X35;K201
+C;Y204;X6;K"EM/413"
+C;X7;K"ASSET"
+C;X8;K"The Museum ="
+C;X10;K" =Carriers Road ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3JX"
+C;X14;K577537
+C;X15;K136189
+C;X16;K"Museum"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K436.1
+C;X23;K"Building Only"
+C;X25;K"Museum"
+C;X28;K"K387190"
+C;X34;K1278752192
+C;X35;K202
+C;Y205;X6;K"EM/121"
+C;X7;K"TEN"
+C;X8;K"Tunbridge Wells Museum & Art Gallery"
+C;X10;K" =Mount Pleasant Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1JN"
+C;X14;K558495
+C;X15;K139551
+C;X16;K"Museum"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"User rights over the first floor of the building for the Museum and Art Gallery"
+C;X20;K"Other, PF"
+C;X21;K"Tunbridge Wells"
+C;X22;K538.7
+C;X23;K"Building Only"
+C;X25;K"Museum"
+C;X34;K1278752192
+C;X35;K203
+C;Y206;X6;K"EM/374"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Borough Counci Benhall Mill Depot"
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X14;K559339
+C;X15;K137744
+C;X16;K"Civic Building"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Civic Building"
+C;X28;K"K922014"
+C;X34;K1434200886
+C;X35;K204
+C;Y207;X6;K"EM/234"
+C;X7;K"ASSET"
+C;X9;K"29-31"
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558592
+C;X15;K139526
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K211.5
+C;X23;K"Building Only"
+C;X25;K"Office"
+C;X28;K"K943348, K722159"
+C;X34;K1418735335
+C;X35;K205
+C;Y208;X6;K"EM/234"
+C;X7;K"ASSET"
+C;X9;K"29-31 "
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558592
+C;X15;K139526
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =(Lease Expiry.  New Lease granted 21.09.2004, refer to record 04/00008/LSE)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K211.5
+C;X23;K"Building Only"
+C;X25;K"Office"
+C;X28;K"K943348, K722159"
+C;X34;K1418735335
+C;X35;K206
+C;Y209;X6;K"EM/233"
+C;X7;K"ASSET"
+C;X9;K27
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558597
+C;X15;K139530
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Offices. Mid Terrace House"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K112
+C;X23;K"Buildings Only"
+C;X25;K"Office"
+C;X28;K"K386931"
+C;X34;K1418726063
+C;X35;K207
+C;Y210;X6;K"EM/233"
+C;X7;K"ASSET"
+C;X9;K27
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558597
+C;X15;K139530
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of an office building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K112
+C;X23;K"Buildings Only"
+C;X25;K"Office"
+C;X28;K"K386931"
+C;X34;K1418726063
+C;X35;K208
+C;Y211;X6;K"EM/233"
+C;X7;K"ASSET"
+C;X9;K27
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558597
+C;X15;K139530
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K112
+C;X23;K"Buildings Only"
+C;X25;K"Office"
+C;X28;K"K386931"
+C;X34;K1418726063
+C;X35;K209
+C;Y212;X6;K"EM/233"
+C;X7;K"ASSET"
+C;X9;K27
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558597
+C;X15;K139530
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K112
+C;X23;K"Buildings Only"
+C;X25;K"Office"
+C;X28;K"K386931"
+C;X34;K1418726063
+C;X35;K210
+C;Y213;X6;K"EM/265"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Borough  Council = Town Hall"
+C;X10;K" =Mount Pleasant Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1RS"
+C;X14;K558497
+C;X15;K139473
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Civic Building. Part Of Civic Building Complex"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Office"
+C;X28;K"K923238"
+C;X34;K1418726037
+C;X35;K211
+C;Y214;X6;K"EM/265"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Borough  Council = Town Hall"
+C;X10;K" =Mount Pleasant Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1RS"
+C;X14;K558497
+C;X15;K139473
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"One aerial and one camera with ancillary equipment and electricity supply."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Office"
+C;X28;K"K923238"
+C;X34;K1418726037
+C;X35;K212
+C;Y215;X6;K"04/00008/EM"
+C;X7;K"ASSET"
+C;X9;K"9 and 10"
+C;X10;K"Calverley Terrace ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LU"
+C;X14;K558594
+C;X15;K139466
+C;X16;K"Office"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Lease is for one room on ground floor with kitchen and car parking spaces."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Office"
+C;X34;K1278752192
+C;X35;K213
+C;Y216;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DH"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacated 9/10/09. Property boarded up and awai"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K214
+C;Y217;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DH"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacated 9/10/09. Property boarded up and awai"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K215
+C;Y218;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DH"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacant. Property boarded up and awaiting demo"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K216
+C;Y219;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DH"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacated 9/10/09. Property boarded up and awai"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K217
+C;Y220;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DH"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease. Lease surrendered and property vacated 9/10/09. Property boarded up and awaiting demolition."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K218
+C;Y221;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices ="
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DH"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence. License/lease surrendered 9/10/09. Property vacant and boarded up. Awaiting demolition."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K219
+C;Y222;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3EN"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacated 9/10/09. Property boarded up and awai"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K220
+C;Y223;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3EN"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacated 9/10/09. Property boarded up and awai"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K221
+C;Y224;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3EN"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacant. Property boarded up and awaiting demo"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K222
+C;Y225;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3EN"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for all those premises known as the walls floors and ceilings of Rooms (1) (2) (6a) (7) and (7a) and store rooms (1a) and (2a) of the Council Offices High Street Cranbrook. Lease surrendered and property vacated 9/10/09. Property boarded up and awai"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K223
+C;Y226;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices"
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3EN"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease. Lease surrendered and property vacated 9/10/09. Property boarded up and awaiting demolition."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K224
+C;Y227;X6;K"EM/394"
+C;X7;K"DIS"
+C;X8;K"Council Offices ="
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3EN"
+C;X14;K577128
+C;X15;K135943
+C;X16;K"Office"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence. License/lease surrendered 9/10/09. Property vacant and boarded up. Awaiting demolition."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Office"
+C;X34;K1418731691
+C;X35;K225
+C;Y228;X6;K"EM/657"
+C;X7;K"ASSET"
+C;X8;K"Town Hall Yard"
+C;X10;K" =Monson Way ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558589
+C;X15;K139496
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Private Car Park, Covered, Marked Tarmac. Top floor leased to Town !6 Country Housing Group for a period of 500 years from 21.10.1992. Peppercorn rent."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X34;K1410130737
+C;X35;K226
+C;Y229;X6;K"EM/284"
+C;X7;K"ASSET"
+C;X8;K"Car Park ="
+C;X10;K" =Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1QY"
+C;X14;K558516
+C;X15;K139311
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K923452"
+C;X34;K1410133499
+C;X35;K227
+C;Y230;X6;K"EM/235"
+C;X7;K"ASSET"
+C;X8;K"Crescent Road Multi Story Car Park ="
+C;X10;K"Crescent Road Multi Story Car Park =Crescent Road =Royal Tunbridge Wells =Kent =TN1 2LU ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LU"
+C;X14;K558647
+C;X15;K139480
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Car Park. Multi Storey Car Park =Lease to CONCEPT Waterless Car Wash. Car valeting service."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K928571"
+C;X34;K1418733901
+C;X35;K228
+C;Y231;X6;K"EM/235"
+C;X7;K"ASSET"
+C;X8;K"Crescent Road Multi Story Car Park ="
+C;X10;K"Crescent Road Multi Story Car Park =Crescent Road =Royal Tunbridge Wells =Kent =TN1 2LU ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LU"
+C;X14;K558647
+C;X15;K139480
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease for tables and chairs outside Soup-Urb on the pedestrian precinct between the multi-storey car park and Monson Road."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K928571"
+C;X34;K1418733901
+C;X35;K229
+C;Y232;X6;K"EM/276"
+C;X7;K"ASSET"
+C;X8;K"Car Park "
+C;X9;K"8 and 10"
+C;X10;K"Crescent Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LU"
+C;X14;K558594
+C;X15;K139466
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Lease for part of car park - 11 spaces"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Car Parking"
+C;X34;K1278752192
+C;X35;K230
+C;Y233;X6;K"EM/169"
+C;X7;K"ASSET"
+C;X8;K"Car Park ="
+C;X10;K" =Beech Street"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2RU"
+C;X14;K558843
+C;X15;K140008
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Tarmac Pay And Display Car Park"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K96773, K96774, K96775"
+C;X34;K1410134019
+C;X35;K231
+C;Y234;X6;K"EM/661"
+C;X7;K"ASSET"
+C;X8;K"Regal Car Park ="
+C;X10;K"High Street ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3DN"
+C;X14;K577464
+C;X15;K135867
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Car Park. Car Parking to the South of the High Street. Leased to Cranbrook Parish Council."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X34;K1410134033
+C;X35;K232
+C;Y235;X6;K"EM/400"
+C;X7;K"ASSET"
+C;X8;K"Car Park"
+C;X10;K"The Tanyard ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3HU"
+C;X14;K577766
+C;X15;K135968
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Car Park. Free Public Car Park. Responsibility transferred to Cranbrook Parish Council under lease."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K729218/K174189"
+C;X34;K1418733267
+C;X35;K233
+C;Y236;X6;K"EM/318"
+C;X7;K"ASSET"
+C;X8;K"Car Park ="
+C;X10;K"Linden Park Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2"
+C;X14;K558112
+C;X15;K138634
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Car Park. Underground Pay And Display Car Park"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K924671"
+C;X34;K1410133498
+C;X35;K234
+C;Y237;X6;K"EM/57"
+C;X7;K"ASSET"
+C;X8;K"Car Park ="
+C;X10;K"Yew Tree Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0BA"
+C;X14;K558204
+C;X15;K141963
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Public Car Park - Tarmac/Marked Out"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K298031"
+C;X34;K1410130258
+C;X35;K235
+C;Y238;X6;K"EM/26"
+C;X7;K"ASSET"
+C;X8;K"Council Yard Adacent To Royal Victoria Hal"
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Car Park. Tarmac Area With Gate At Side. =Licence for mobile classroom from 9 September to 15 September 2014."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Car Parking"
+C;X28;K"UNREGISTERED"
+C;X34;K1418727686
+C;X35;K236
+C;Y239;X6;K"EM/26"
+C;X7;K"ASSET"
+C;X8;K"Council Yard Adacent To Royal Victoria Hal"
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X14;K558150
+C;X15;K142105
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Car Park. Tarmac Area With Gate At Side. Licence to hold a 1 day book sale."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Car Parking"
+C;X28;K"UNREGISTERED"
+C;X34;K1418727686
+C;X35;K237
+C;Y240;X6;K"EM/665"
+C;X7;K"DIS"
+C;X8;K"Car Park ="
+C;X10;K"The Broadway ="
+C;X11;K"Lamberhurst"
+C;X12;K"Tunbridge Wells"
+C;X14;K567660
+C;X15;K136186
+C;X16;K"Car Parking"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =Lease not renewed to TWBC."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X34;K1410134090
+C;X35;K238
+C;Y241;X6;K"EM/161"
+C;X7;K"DIS"
+C;X8;K"Land To The Rear Of"
+C;X9;K41
+C;X10;K"Quarry Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2EZ"
+C;X14;K558932
+C;X15;K140285
+C;X16;K"Car Parking"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Car Parking"
+C;X34;K1276752192
+C;X35;K239
+C;Y242;X6;K"EM/158"
+C;X7;K"DIS"
+C;X8;K"Covered Car Parking = Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X16;K"Car Parking"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Car Parking"
+C;X34;K1418726766
+C;X35;K240
+C;Y243;X6;K"EM/660"
+C;X7;K"TEN"
+C;X8;K"Car Park At"
+C;X10;K" =Rye Road"
+C;X11;K"Hawkhurst"
+C;X12;K"Cranbrook"
+C;X13;K"TN18 4PQ"
+C;X14;K576450
+C;X15;K130488
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Free Public Car Park ="
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K696341"
+C;X34;K1410134035
+C;X35;K241
+C;Y244;X6;K"95/00001/EM"
+C;X7;K"TEN"
+C;X8;K"Car Park =Union House ="
+C;X10;K"Eridge Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8HF"
+C;X14;K557943
+C;X15;K138601
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"An open, surface level public car park.  There are 55 spaces. Surface Car Park =Union Square =Tunbridge Wells = =Lease from B S Pension Fund Trustee Ltd to TWBC."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K331872"
+C;X34;K1410134028
+C;X35;K242
+C;Y245;X6;K"EM/654"
+C;X7;K"TEN"
+C;X8;K"Basement Car Park =Union House ="
+C;X10;K"Eridge Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8HF"
+C;X14;K557943
+C;X15;K138601
+C;X16;K"Car Parking"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"A car park forming one level of a multi storey car park below Union Square.  This is a 1960s development with shops on ground level and an office block above.  59 Spaces in total - This record details the 30 are sublet back to B.O.S. Investments = =(Held on"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Car Parking"
+C;X28;K"K331872"
+C;X34;K1410134028
+C;X35;K243
+C;Y246;X6;K"EM/432"
+C;X7;K"ASSET"
+C;X8;K"Public Conveniences ="
+C;X10;K"Sissinghurst Road ="
+C;X11;K"Sissinghurst"
+C;X12;K"Cranbrook"
+C;X13;K"TN17 2JA"
+C;X14;K579225
+C;X15;K137519
+C;X16;K"Public Toilets"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Single Storey Detached Building = =(Leased to TWBC by Parish Council)"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X22;K23.2
+C;X23;K"Buildings Only"
+C;X25;K"Public Toilets"
+C;X34;K1410132576
+C;X35;K244
+C;Y247;X6;K"EM/623"
+C;X7;K"ASSET"
+C;X8;K"Public Conveniences ="
+C;X10;K"Linden Park Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8HE"
+C;X14;K558055
+C;X15;K138643
+C;X16;K"Public Toilets"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Public Toilets"
+C;X34;K1418733900
+C;X35;K245
+C;Y248;X6;K"EM/634"
+C;X7;K"DIS"
+C;X8;K"Public Conveniences"
+C;X10;K"Maidstone Road"
+C;X11;K"Horsmonden"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 8JJ"
+C;X14;K570025
+C;X15;K140602
+C;X16;K"Public Toilets"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K24.2
+C;X23;K"Buildings Only"
+C;X25;K"Public Toilets"
+C;X28;K"K619150"
+C;X34;K1410135015
+C;X35;K246
+C;Y249;X6;K"EM/431"
+C;X7;K"DIS"
+C;X8;K"Public Conveniences ="
+C;X10;K" =The Street"
+C;X11;K"Benenden ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 4DE"
+C;X14;K581012
+C;X15;K132819
+C;X16;K"Public Toilets"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Single Storey Detached Building = =(Leased to TWBC by Parish Council)"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Public Toilets"
+C;X34;K1418733274
+C;X35;K247
+C;Y250;X6;K"08/00345/ASSET"
+C;X7;K"ASSET"
+C;X8;K"Cinder Hill Lane ="
+C;X10;K"Cinder Hill Lane ="
+C;X11;K"Matfield"
+C;X12;K"Tonbridge"
+C;X13;K"TN17"
+C;X14;K565431
+C;X15;K142450
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Road. Lane leading to Caravan Site and Woodland."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K936196"
+C;X34;K1410130561
+C;X35;K248
+C;Y251;X6;K"EM/286"
+C;X7;K"ASSET"
+C;X8;K"Calverley Grounds ="
+C;X10;K" =Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1QY"
+C;X14;K558684
+C;X15;K139253
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Part of Public Park With croquet facilities"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923452"
+C;X34;K1418735338
+C;X35;K249
+C;Y252;X6;K"EM/286"
+C;X7;K"ASSET"
+C;X8;K"Calverley Grounds ="
+C;X10;K" =Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1QY"
+C;X14;K558684
+C;X15;K139253
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Part of Public Park With croquet facilities including Pavillion"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923452"
+C;X34;K1418735338
+C;X35;K250
+C;Y253;X6;K"EM/286"
+C;X7;K"ASSET"
+C;X8;K"Calverley Grounds ="
+C;X10;K" =Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1QY"
+C;X14;K558684
+C;X15;K139253
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Public Park With croquet facilities"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923452"
+C;X34;K1418735338
+C;X35;K251
+C;Y254;X6;K"EM/901"
+C;X7;K"ASSET"
+C;X8;K"Weald Sports Centre ="
+C;X10;K"Angley Road ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 2PJ"
+C;X14;K577284
+C;X15;K136585
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Land"
+C;X28;K"K784477"
+C;X34;K1418731801
+C;X35;K252
+C;Y255;X6;K"EM/247"
+C;X7;K"ASSET"
+C;X8;K"Boating Lake ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QA"
+C;X14;K559987
+C;X15;K139842
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Recreation. Boating Lake. Lease to Mr Norman Matchett of lake and kiosk."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K930547"
+C;X34;K1410131982
+C;X35;K253
+C;Y256;X6;K"EM/247"
+C;X7;K"ASSET"
+C;X8;K"Boating Lake ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QA"
+C;X14;K559987
+C;X15;K139842
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =(Surrendered)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K930547"
+C;X34;K1410131982
+C;X35;K254
+C;Y257;X6;K"EM/244"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K560054
+C;X15;K139648
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"The Boat Kiosk and Boat Storage Building at Dunorlan Park, Tunbridge Wells;; and =the premises on the Basement and Ground Floors at the Medway Depot, Tunbridge Wells =(See Ownership/Asset Register Ref Nos:- 04/00016/EM and 04/00015/EM for new boat kiosk and "
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K930547"
+C;X34;K1410129850
+C;X35;K255
+C;Y258;X6;K"EM/244"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K560054
+C;X15;K139648
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"The Boat Kiosk and Boat Storage Building at Dunorlan Park, Tunbridge Wells;; and =the premises on the Basement and Ground Floors at the Medway Depot, Tunbridge Wells =(See Ownership/Asset Register Ref Nos:- 04/00016/EM and 04/00015/EM for new boat kiosk and "
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K930547"
+C;X34;K1410129850
+C;X35;K256
+C;Y259;X6;K"EM/244"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K560054
+C;X15;K139648
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"The Boat Kiosk and Boat Storage Building at Dunorlan Park, Tunbridge Wells;; and =the premises on the Basement and Ground Floors at the Medway Depot, Tunbridge Wells =(See Ownership/Asset Register Ref Nos:- 04/00016/EM and 04/00015/EM for new boat kiosk and "
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K930547"
+C;X34;K1410129850
+C;X35;K257
+C;Y260;X6;K"EM/244"
+C;X7;K"ASSET"
+C;X8;K"Dunorlan Park ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QN"
+C;X14;K560054
+C;X15;K139648
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"The Boat Kiosk and Boat Storage Building at Dunorlan Park, Tunbridge Wells;; and =the premises on the Basement and Ground Floors at the Medway Depot, Tunbridge Wells =(See Ownership/Asset Register Ref Nos:- 04/00016/EM and 04/00015/EM for new boat kiosk and "
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K930547"
+C;X34;K1410129850
+C;X35;K258
+C;Y261;X6;K"EM/355"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Lawn Tennis Club"
+C;X10;K" =Nevill Gate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ES"
+C;X14;K558764
+C;X15;K138416
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Recreation. Tennis Courts And Pavilion"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Land"
+C;X28;K"K923392"
+C;X34;K1410131560
+C;X35;K259
+C;Y262;X6;K"EM/355"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Lawn Tennis Club"
+C;X10;K" =Nevill Gate"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ES"
+C;X14;K558764
+C;X15;K138416
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Land"
+C;X28;K"K923392"
+C;X34;K1410131560
+C;X35;K260
+C;Y263;X6;K"EM/353"
+C;X7;K"ASSET"
+C;X8;K"Nevill Ground ="
+C;X10;K"Nevill Gate ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ES"
+C;X14;K558844
+C;X15;K138336
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Recreation. Public Recreation Ground With Hockey Pitch and Grandstand"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923392"
+C;X34;K1418735253
+C;X35;K261
+C;Y264;X6;K"EM/353"
+C;X7;K"ASSET"
+C;X8;K"Nevill Ground ="
+C;X10;K"Nevill Gate ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ES"
+C;X14;K558844
+C;X15;K138336
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Recreation. Public Recreation Ground With Hockey Pitch and Grandstand"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923392"
+C;X34;K1418735253
+C;X35;K262
+C;Y265;X6;K"EM/353"
+C;X7;K"ASSET"
+C;X8;K"Nevill Ground ="
+C;X10;K"Nevill Gate ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ES"
+C;X14;K558844
+C;X15;K138336
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cricket Nets"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923392"
+C;X34;K1418735253
+C;X35;K263
+C;Y266;X6;K"EM/353"
+C;X7;K"ASSET"
+C;X8;K"Nevill Ground ="
+C;X10;K"Nevill Gate ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ES"
+C;X14;K558844
+C;X15;K138336
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923392"
+C;X34;K1418735253
+C;X35;K264
+C;Y267;X6;K"EM/354"
+C;X7;K"ASSET"
+C;X8;K"Pavilion = = Nevill Ground"
+C;X10;K"Nevill Gate ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ES"
+C;X14;K558844
+C;X15;K138336
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K923392"
+C;X34;K1418735253
+C;X35;K265
+C;Y268;X6;K"EM/444"
+C;X7;K"ASSET"
+C;X8;K"St Marks Recreation Ground ="
+C;X10;K"Frant Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5LS"
+C;X14;K558370
+C;X15;K137448
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K924744"
+C;X34;K1410129869
+C;X35;K266
+C;Y269;X6;K"EM/315"
+C;X7;K"ASSET"
+C;X9;K61
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558064
+C;X15;K138664
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Retail. Ground Floor Rooms For Art Club"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K76.6
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K923485"
+C;X34;K1278752192
+C;X35;K267
+C;Y270;X6;K"EM/315"
+C;X7;K"ASSET"
+C;X9;K61
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558064
+C;X15;K138664
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K76.6
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K923485"
+C;X34;K1278752192
+C;X35;K268
+C;Y271;X6;K"EM/315"
+C;X7;K"ASSET"
+C;X9;K61
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558064
+C;X15;K138664
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K76.6
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X28;K"K923485"
+C;X34;K1278752192
+C;X35;K269
+C;Y272;X6;K"EM/95"
+C;X7;K"ASSET"
+C;X8;K"St Johns Recreation Ground ="
+C;X10;K"Beltring Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9RG"
+C;X14;K557926
+C;X15;K140722
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Recreation. Public Recreation Grnd, with bowls club and Sports Facilities. =Road fronting recreation ground is adopted highway and footpath either side of rec is Public Right of Way WBX5. =Kiosk subject to lease."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K938483"
+C;X34;K1410133135
+C;X35;K270
+C;Y273;X6;K"EM/95"
+C;X7;K"ASSET"
+C;X8;K"St Johns Recreation Ground ="
+C;X10;K"Beltring Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9RG"
+C;X14;K557926
+C;X15;K140722
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Public Recreation Grnd, with bowls club and Sports Facilities. =Road fronting recreation ground is adopted highway and footpath either side of rec is Public Right of Way WBX5. =Kiosk subject to lease."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K938483"
+C;X34;K1410133135
+C;X35;K271
+C;Y274;X6;K"EM/95"
+C;X7;K"ASSET"
+C;X8;K"St Johns Recreation Ground ="
+C;X10;K"Beltring Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9RG"
+C;X14;K557926
+C;X15;K140722
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Public Recreation Grnd, with bowls club and Sports Facilities. =Road fronting recreation ground is adopted highway and footpath either side of rec is Public Right of Way WBX5. =Lease is for kiosk in Pavilion. Rent increases to ?3,400.00 in 2016."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K938483"
+C;X34;K1410133135
+C;X35;K272
+C;Y275;X6;K"EM/93"
+C;X7;K"ASSET"
+C;X8;K"Culverden Stadium ="
+C;X10;K"Culverden Down ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9SG"
+C;X14;K557542
+C;X15;K140747
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K362352"
+C;X34;K1410131312
+C;X35;K273
+C;Y276;X6;K"EM/73"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Sports Centre ="
+C;X10;K"St Johns Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9TX"
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Sports Centre. Sports Centre/Swimming Pool"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K757643/K414767/K798661"
+C;X34;K1418727624
+C;X35;K274
+C;Y277;X6;K"EM/73"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Sports Centre ="
+C;X10;K"St Johns Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9TX"
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"The Sports Shop at the Tunbridge Wells Sports Centre"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K757643/K414767/K798661"
+C;X34;K1418727624
+C;X35;K275
+C;Y278;X6;K"EM/73"
+C;X7;K"ASSET"
+C;X8;K"Tunbridge Wells Sports Centre ="
+C;X10;K"St Johns Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9TX"
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Cafe"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K757643/K414767/K798661"
+C;X34;K1418727624
+C;X35;K276
+C;Y279;X6;K"EM/100"
+C;X7;K"DIS"
+C;X8;K"Grosvenor Hall = Grosvenor Recreation Ground"
+C;X10;K"Upper Grosvenor Road"
+C;X12;K"Tunbridge Wells"
+C;X14;K558834
+C;X15;K140464
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence = =PROPERTY DEMOLISHED 01/07/2001"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Leisure/Sports Facility"
+C;X34;K1434200177
+C;X35;K277
+C;Y280;X6;K"15/00409/TEN"
+C;X7;K"TEN"
+C;X8;K"Play Area =St Marks C Of E Primary School ="
+C;X10;K" =Ramslye Road"
+C;X12;K"Tunbridge Wells"
+C;X14;K556996
+C;X15;K138122
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease of part of the recreation area"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K957088"
+C;X34;K1410134063
+C;X35;K278
+C;Y281;X6;K"04/00009/EM"
+C;X7;K"TEN"
+C;X8;K"Putlands Sports & Leisure Centre ="
+C;X10;K"Mascalls Court Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6NZ"
+C;X14;K567067
+C;X15;K144157
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Sports Centre. Purpose built sports centre"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Leisure/Sports Facility"
+C;X28;K"K752859"
+C;X34;K1278752192
+C;X35;K279
+C;Y282;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. End Terrace House divided into 4 flats."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K280
+C;Y283;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. End Terrace House divided into 4 flats."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K281
+C;Y284;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. End Terrace House divided into 4 flats."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K282
+C;Y285;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. End Terrace House divided into 4 flats."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K283
+C;Y286;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. End Terrace House divided into 4 flats."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K284
+C;Y287;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. End Terrace House divided into 4 flats."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K285
+C;Y288;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. End Terrace House divided into 4 flats."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K286
+C;Y289;X6;K"EM/219"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LF"
+C;X14;K558419
+C;X15;K139613
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K292680"
+C;X34;K1418726693
+C;X35;K287
+C;Y290;X6;K"EM/232"
+C;X7;K"ASSET"
+C;X9;K25
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558601
+C;X15;K139533
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Mid Terrace House."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K102.6
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K386930"
+C;X34;K1276752192
+C;X35;K288
+C;Y291;X6;K"EM/232"
+C;X7;K"ASSET"
+C;X9;K25
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558601
+C;X15;K139533
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Mid Terrace House."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K102.6
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K386930"
+C;X34;K1276752192
+C;X35;K289
+C;Y292;X6;K"EM/232"
+C;X7;K"ASSET"
+C;X9;K25
+C;X10;K"Monson Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LS"
+C;X14;K558601
+C;X15;K139533
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Sec/Svce Tenat"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K102.6
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K386930"
+C;X34;K1276752192
+C;X35;K290
+C;Y293;X6;K"EM/671"
+C;X7;K"ASSET"
+C;X8;K"Assembly Hall Theatre ="
+C;X10;K"Crescent Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LU"
+C;X14;K558536
+C;X15;K139472
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Grade II"
+C;X19;K"Service Tenant"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K3294
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K291
+C;Y294;X6;K"EM/279"
+C;X7;K"ASSET"
+C;X9;K32
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558730
+C;X15;K139467
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Mid Terrace Victorian Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K928571"
+C;X34;K1418726437
+C;X35;K292
+C;Y295;X6;K"EM/279"
+C;X7;K"ASSET"
+C;X9;K32
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558730
+C;X15;K139467
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Gen"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K928571"
+C;X34;K1418726437
+C;X35;K293
+C;Y296;X6;K"EM/281"
+C;X7;K"ASSET"
+C;X9;K34
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558737
+C;X15;K139474
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Gen"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K711633"
+C;X34;K1276752192
+C;X35;K294
+C;Y297;X6;K"EM/21"
+C;X7;K"ASSET"
+C;X9;K40
+C;X10;K"Church Road"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6HB"
+C;X14;K567252
+C;X15;K145011
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K52.367
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K631713"
+C;X34;K1276752192
+C;X35;K295
+C;Y298;X6;K"EM/20"
+C;X7;K"ASSET"
+C;X9;K1
+C;X10;K"Pennyfields ="
+C;X12;K"Cranbrook"
+C;X13;K"TN17 3BZ"
+C;X14;K577830
+C;X15;K135564
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K687220"
+C;X34;K1276752192
+C;X35;K296
+C;Y299;X6;K"EM/2"
+C;X7;K"ASSET"
+C;X9;K19
+C;X10;K"Rankine Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3BJ"
+C;X14;K559718
+C;X15;K141448
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K68.29
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K297
+C;Y300;X6;K"EM/250"
+C;X7;K"ASSET"
+C;X8;K"Gardeners Cottage =Dunorlan"
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QB"
+C;X14;K559989
+C;X15;K139831
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Secure Tenant"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K930547"
+C;X34;K1277752192
+C;X35;K298
+C;Y301;X6;K"EM/105"
+C;X7;K"ASSET"
+C;X8;K"Packs In The Wood ="
+C;X10;K"Hilbert Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3SE"
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Secure Tenant"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K67.79
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K925824"
+C;X34;K1418728621
+C;X35;K299
+C;Y302;X6;K"EM/4"
+C;X7;K"ASSET"
+C;X9;K172
+C;X10;K"Sandhurst Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3TQ"
+C;X14;K559528
+C;X15;K141146
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K571777"
+C;X34;K1276752192
+C;X35;K300
+C;Y303;X6;K"EM/369"
+C;X7;K"ASSET"
+C;X8;K"Crematorium Lodge ="
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Semi detached House."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K60.38
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K922014"
+C;X34;K1276752192
+C;X35;K301
+C;Y304;X6;K"EM/369"
+C;X7;K"ASSET"
+C;X8;K"Crematorium Lodge ="
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Semi detached House."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K60.38
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K922014"
+C;X34;K1276752192
+C;X35;K302
+C;Y305;X6;K"EM/369"
+C;X7;K"ASSET"
+C;X8;K"Crematorium Lodge ="
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Semi detached House."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K60.38
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K922014"
+C;X34;K1276752192
+C;X35;K303
+C;Y306;X6;K"EM/369"
+C;X7;K"ASSET"
+C;X8;K"Crematorium Lodge ="
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Service Tenant"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K60.38
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K922014"
+C;X34;K1276752192
+C;X35;K304
+C;Y307;X6;K"EM/370"
+C;X7;K"ASSET"
+C;X8;K"Cemetery Lodge ="
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X14;K559279
+C;X15;K137801
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Detached Gothic Style Building = ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K135.48
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K922014"
+C;X34;K1276752192
+C;X35;K305
+C;Y308;X6;K"EM/370"
+C;X7;K"ASSET"
+C;X8;K"Cemetery Lodge ="
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X14;K559279
+C;X15;K137801
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Detached Gothic Style Building = ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K135.48
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K922014"
+C;X34;K1276752192
+C;X35;K306
+C;Y309;X6;K"EM/370"
+C;X7;K"ASSET"
+C;X8;K"Cemetery Lodge ="
+C;X10;K"Benhall Mill Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5JH"
+C;X14;K559279
+C;X15;K137801
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Three bedroom house. = =Property vacated by Jeff Kempster on 17.12.2008."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K135.48
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K922014"
+C;X34;K1276752192
+C;X35;K307
+C;Y310;X6;K"EM/338"
+C;X7;K"ASSET"
+C;X9;K"4A"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557471
+C;X15;K138227
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"End Terrace 1st and 2nd Floor Maisonette. Rent is subject to RPI review. Lease contains break clause after the expiry of the first six months of the term the tenant may serve on the Council a 28 day prior written notice subject to payment of rent. See lea"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K59.93
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K278538"
+C;X34;K1276752192
+C;X35;K308
+C;Y311;X6;K"EM/338"
+C;X7;K"ASSET"
+C;X9;K"4A"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557471
+C;X15;K138227
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Gen"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K59.93
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K278538"
+C;X34;K1276752192
+C;X35;K309
+C;Y312;X6;K"EM/336"
+C;X7;K"ASSET"
+C;X9;K"3A  "
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557478
+C;X15;K138225
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Mid Terrace 1st and 2nd Floor Maisonette ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K310
+C;Y313;X6;K"EM/336"
+C;X7;K"ASSET"
+C;X9;K"3A  "
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557478
+C;X15;K138225
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Mid Terrace 1st and 2nd Floor Maisonette"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K311
+C;Y314;X6;K"EM/336"
+C;X7;K"ASSET"
+C;X9;K"3A"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557478
+C;X15;K138225
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Mid Terrace 1st and 2nd Floor Maisonette. Rent is subject to RPI. There is a break clause after the expiry of the first six months of the term the tenant may serve notice on the Council with a 28 day prior written notice or at any time provided the notice"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K312
+C;Y315;X6;K"EM/336"
+C;X7;K"ASSET"
+C;X9;K"3A"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557478
+C;X15;K138225
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K313
+C;Y316;X6;K"EM/312"
+C;X7;K"ASSET"
+C;X9;K10
+C;X10;K"Sussex Mews"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5QF"
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1418733845
+C;X35;K314
+C;Y317;X6;K"EM/316"
+C;X7;K"ASSET"
+C;X9;K"61A   "
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558064
+C;X15;K138664
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. First Floor Flat. Tenant has a long leasehold interest in the property. TWBC own the freehold. =Following the death of Mrs Jenner, Ms Jackson has purchsed the leasehold interest from Mrs Jenners estate."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K70
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1410132387
+C;X35;K315
+C;Y318;X6;K"EM/316"
+C;X7;K"ASSET"
+C;X9;K"61A   "
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558064
+C;X15;K138664
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Long lease at peppercorn rent, Premium of ?78000 paid 19.2.92. Mrs Jenner died 06.12.13. Her daughter, Victoria Jones is arranging probate. Please ensure any correspondence is sent to the property marked for the executors of Mrs S Jenner."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K70
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1410132387
+C;X35;K316
+C;Y319;X6;K"EM/317"
+C;X7;K"ASSET"
+C;X9;K"61B"
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558064
+C;X15;K138664
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K51.67
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1410135018
+C;X35;K317
+C;Y320;X6;K"EM/313"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Residential. Occupies First And Second Floor Maisonette - present lease awaits updating to reflect occupancy"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.85
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K318
+C;Y321;X6;K"EM/313"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Residential. Occupies First And Second Floor Maisonette - present lease awaits updating to reflect occupancy"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.85
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K319
+C;Y322;X6;K"EM/313"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Temp Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.85
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K320
+C;Y323;X6;K"EM/313"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K92.85
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K321
+C;Y324;X6;K"EM/314"
+C;X7;K"ASSET"
+C;X9;K"59A"
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Ground Floor Flat = =Property sold on a long leasehold to Ms A C Knowles 22/08/02 for 77,000"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K24.74
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K844467/K923485"
+C;X34;K1418736942
+C;X35;K322
+C;Y325;X6;K"EM/314"
+C;X7;K"ASSET"
+C;X9;K"59A"
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence = =Property sold on a long leasehold 22 August 2002 to Ms A C Knowles"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K24.74
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K844467/K923485"
+C;X34;K1418736942
+C;X35;K323
+C;Y326;X6;K"EM/310"
+C;X7;K"ASSET"
+C;X9;K57
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558076
+C;X15;K138675
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K74.74
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1278752192
+C;X35;K324
+C;Y327;X6;K"EM/311"
+C;X7;K"ASSET"
+C;X9;K"57A"
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558076
+C;X15;K138675
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Ground Floor Flat."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K46.66
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1410132386
+C;X35;K325
+C;Y328;X6;K"EM/311"
+C;X7;K"ASSET"
+C;X9;K"57A"
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558076
+C;X15;K138675
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Residential. Ground Floor Flat."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K46.66
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1410132386
+C;X35;K326
+C;Y329;X6;K"EM/311"
+C;X7;K"ASSET"
+C;X9;K"57A"
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558076
+C;X15;K138675
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K46.66
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K923485"
+C;X34;K1410132386
+C;X35;K327
+C;Y330;X6;K"EM/23"
+C;X7;K"ASSET"
+C;X9;K"58B"
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0PR"
+C;X14;K558109
+C;X15;K142233
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K119756"
+C;X34;K1276752192
+C;X35;K328
+C;Y331;X6;K"EM/24"
+C;X7;K"ASSET"
+C;X9;K"58C"
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0PR"
+C;X14;K558109
+C;X15;K142233
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K119756"
+C;X34;K1276752192
+C;X35;K329
+C;Y332;X6;K"EM/22"
+C;X7;K"ASSET"
+C;X9;K"58A"
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0PR"
+C;X14;K558109
+C;X15;K142233
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K119756"
+C;X34;K1276752192
+C;X35;K330
+C;Y333;X6;K"EM/25"
+C;X7;K"ASSET"
+C;X9;K"58D"
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0PR"
+C;X14;K558109
+C;X15;K142233
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K119756"
+C;X34;K1276752192
+C;X35;K331
+C;Y334;X6;K"EM/142"
+C;X7;K"ASSET"
+C;X9;K"59C"
+C;X10;K"St Johns Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9TT"
+C;X14;K558191
+C;X15;K140412
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ground Rent"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K112.598
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K286012"
+C;X34;K1410131282
+C;X35;K332
+C;Y335;X6;K"EM/141"
+C;X7;K"ASSET"
+C;X9;K"59B"
+C;X10;K"St Johns Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9TT"
+C;X14;K558191
+C;X15;K140412
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ground Rent"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K112.598
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K286012"
+C;X34;K1418727012
+C;X35;K333
+C;Y336;X6;K"EM/97.1"
+C;X7;K"ASSET"
+C;X9;K"2A "
+C;X10;K"Southfield Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9UL"
+C;X14;K558161
+C;X15;K140800
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Flat in end terrace house.  Used for sheltered housing."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K173913"
+C;X34;K1276752192
+C;X35;K334
+C;Y337;X6;K"EM/97"
+C;X7;K"ASSET"
+C;X9;K4
+C;X10;K"Southfield Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9UL"
+C;X14;K558161
+C;X15;K140800
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Hostel"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K173913"
+C;X34;K1276752192
+C;X35;K335
+C;Y338;X6;K"EM/266"
+C;X7;K"DIS"
+C;X8;K"Clarence House ="
+C;X9;K1
+C;X10;K"Clarence Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1HE"
+C;X14;K558264
+C;X15;K139435
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Grade II"
+C;X19;K"Ta/Hostel.  Rent is accumulative for all flats = =This property is now vacant and is on the market 16.01.06"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K336
+C;Y339;X6;K"EM/287"
+C;X7;K"DIS"
+C;X8;K"The Lodge ="
+C;X9;K1
+C;X10;K" =Mount Pleasant Avenue"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1QY"
+C;X14;K558544
+C;X15;K139268
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K337
+C;Y340;X6;K"EM/103"
+C;X7;K"DIS"
+C;X8;K"The Lodge ="
+C;X10;K"Auckland Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HU"
+C;X14;K559126
+C;X15;K140613
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Secure Tenant"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K338
+C;Y341;X6;K"EM/744"
+C;X7;K"DIS"
+C;X9;K7
+C;X10;K"Mount Pleasant ="
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6AH"
+C;X14;K566774
+C;X15;K144916
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Leasehold"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K339
+C;Y342;X6;K"EM/753"
+C;X7;K"DIS"
+C;X8;K"3 Springfield Cottages ="
+C;X9;K2
+C;X10;K"Watermans Lane"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6ND"
+C;X14;K567764
+C;X15;K143461
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Leasehold - property let to MS Francis - Housing tenant. =This property was leased to TWBC by Mr J A Buggs.  Notice to Quit served on Council requiring vacant possession on 20 June 2004.  Ms Francis is now tenant of Mr Buggs.  No further direct involvement"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K340
+C;Y343;X6;K"EM/647"
+C;X7;K"DIS"
+C;X8;K"3 Springfield Cottages ="
+C;X9;K2
+C;X10;K"Watermans Lane"
+C;X11;K"Paddock Wood"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 6ND"
+C;X14;K567764
+C;X15;K143461
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K341
+C;Y344;X6;K"EM/113"
+C;X7;K"DIS"
+C;X9;K"102A"
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X14;K560105
+C;X15;K140985
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K38.65
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K342
+C;Y345;X6;K"EM/117"
+C;X7;K"DIS"
+C;X9;K"106A"
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X14;K560118
+C;X15;K140978
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K50.87
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K343
+C;Y346;X6;K"EM/115"
+C;X7;K"DIS"
+C;X8;K"The Flat ="
+C;X9;K"104A"
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JG"
+C;X14;K560111
+C;X15;K140981
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K49.26
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K344
+C;Y347;X6;K"EM/252"
+C;X7;K"DIS"
+C;X8;K"Flat 1 Dunorlan Mews ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QB"
+C;X14;K559979
+C;X15;K139847
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Gen"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1410133363
+C;X35;K345
+C;Y348;X6;K"EM/254"
+C;X7;K"DIS"
+C;X8;K"Flat 2 = Dunorlan"
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QB"
+C;X14;K559970
+C;X15;K139841
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Gen"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1410133365
+C;X35;K346
+C;Y349;X6;K"EM/162"
+C;X7;K"DIS"
+C;X8;K"Bothy Flat  =Dunorlan ="
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QB"
+C;X14;K560012
+C;X15;K139848
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Gen"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K347
+C;Y350;X6;K"EM/253"
+C;X7;K"DIS"
+C;X8;K"1 Dunorlan Mews"
+C;X9;K1
+C;X10;K"Pembury Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3QB"
+C;X14;K559979
+C;X15;K139847
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Ta/Gen"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1410133363
+C;X35;K348
+C;Y351;X6;K"EM/297"
+C;X7;K"DIS"
+C;X8;K"First Floor Flat ="
+C;X9;K25
+C;X10;K"George Street"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4SR"
+C;X14;K559219
+C;X15;K139243
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1278752192
+C;X35;K349
+C;Y352;X6;K"EM/334"
+C;X7;K"DIS"
+C;X9;K"2A    "
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557489
+C;X15;K138225
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease =PROPERTY HAS BEEN SOLD 30/09/2003"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K350
+C;Y353;X6;K"EM/333"
+C;X7;K"DIS"
+C;X9;K"1A"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557489
+C;X15;K138225
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =PROPERTY SOLD 30/09/2003"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K351
+C;Y354;X6;K"EM/14"
+C;X7;K"DIS"
+C;X9;K8
+C;X10;K"Woolley Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0LG"
+C;X14;K557762
+C;X15;K142085
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1418725512
+C;X35;K352
+C;Y355;X6;K"EM/13"
+C;X7;K"DIS"
+C;X9;K"4A"
+C;X10;K"Woolley Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0LG"
+C;X14;K557770
+C;X15;K142090
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K353
+C;Y356;X6;K"EM/15"
+C;X7;K"DIS"
+C;X9;K"6A"
+C;X10;K"Woolley Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0LG"
+C;X14;K557762
+C;X15;K142085
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K354
+C;Y357;X6;K"EM/345"
+C;X7;K"DIS"
+C;X9;K"38-48"
+C;X10;K"Summervale Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 8JD"
+C;X14;K557300
+C;X15;K138313
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property transferred to Town !6 Country Housing Group."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K355
+C;Y358;X6;K"EM/669"
+C;X7;K"DIS"
+C;X9;K63
+C;X10;K"South View Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9BU"
+C;X14;K558983
+C;X15;K141447
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K356
+C;Y359;X6;K"EM/149"
+C;X7;K"DIS"
+C;X8;K"Cemetery Lodge ="
+C;X10;K"Woodbury Park Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9NH"
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Service Tenant = =This property was disposed."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K69.93
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K889316"
+C;X34;K1276752192
+C;X35;K357
+C;Y360;X6;K"07/00001/EM"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Grosvenor Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2AB"
+C;X14;K558494
+C;X15;K139727
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Offices. Gateway - One stop shop providing Council and other public and voluntary sector services. =Rental of desks and phone booths."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K267518"
+C;X34;K1278752192
+C;X35;K358
+C;Y361;X6;K"07/00001/EM"
+C;X7;K"ASSET"
+C;X9;K8
+C;X10;K"Grosvenor Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2AB"
+C;X14;K558494
+C;X15;K139727
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Offices. Gateway - One stop shop providing Council and other public and voluntary sector services"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X28;K"K267518"
+C;X34;K1278752192
+C;X35;K359
+C;Y362;X6;K"EM/280"
+C;X7;K"ASSET"
+C;X9;K33
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558734
+C;X15;K139470
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Retail Unit. Keys with Property and Estates."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K98.8
+C;X23;K"Buildings Only"
+C;X25;K"Retail"
+C;X28;K"K928571"
+C;X34;K1278752192
+C;X35;K360
+C;Y363;X6;K"EM/280"
+C;X7;K"ASSET"
+C;X9;K33
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558734
+C;X15;K139470
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Retail Unit"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K98.8
+C;X23;K"Buildings Only"
+C;X25;K"Retail"
+C;X28;K"K928571"
+C;X34;K1278752192
+C;X35;K361
+C;Y364;X6;K"EM/280"
+C;X7;K"ASSET"
+C;X9;K33
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558734
+C;X15;K139470
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence (Terminated 30/09/2002)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K98.8
+C;X23;K"Buildings Only"
+C;X25;K"Retail"
+C;X28;K"K928571"
+C;X34;K1278752192
+C;X35;K362
+C;Y365;X6;K"EM/132"
+C;X7;K"DIS"
+C;X8;K"Kiosk ="
+C;X10;K"John Street ="
+C;X12;K"Tunbridge Wells"
+C;X14;K558141
+C;X15;K140384
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Small Kiosk Unit.  Now Vacant."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418734141
+C;X35;K363
+C;Y366;X6;K"EM/734"
+C;X7;K"DIS"
+C;X8;K"Medway Depot ="
+C;X10;K"St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Retail"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property sold."
+C;X20;K"Other, PF"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1418726766
+C;X35;K364
+C;Y367;X6;K"EM/278"
+C;X7;K"ASSET"
+C;X9;K31
+C;X10;K"Crescent Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2LZ"
+C;X14;K558726
+C;X15;K139464
+C;X16;K"Retail"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K100
+C;X23;K"Building Only"
+C;X25;K"Retail"
+C;X34;K1278752192
+C;X35;K365
+C;Y368;X6;K"04/00906/EM"
+C;X7;K"ASSET"
+C;X8;K"Rifle Club ="
+C;X10;K" =Warwick Park ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5ET"
+C;X14;K559051
+C;X15;K138199
+C;X16;K"Leisure/Sports Facility"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Land used as shooting range"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building/Land"
+C;X25;K"Leisure/Sports Facility"
+C;X34;K1418736915
+C;X35;K366
+C;Y369;X6;K"EM/533"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Storage"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Residential. Storage cupboard in basement."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K367
+C;Y370;X6;K"EM/534"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Storage"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"DUPLICATE RECORD FOR BASEMENT STORE AT 59 THE PANTILES SEE EM/533"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K368
+C;Y371;X6;K"EM/530"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Storage"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Temp Licence ="
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K369
+C;Y372;X6;K"EM/532"
+C;X7;K"ASSET"
+C;X9;K59
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Storage"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Temp Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K370
+C;Y373;X6;K"EM/531"
+C;X7;K"ASSET"
+C;X9;K61
+C;X10;K"The Pantiles"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5TE"
+C;X14;K558072
+C;X15;K138668
+C;X16;K"Storage"
+C;X17;K"LIVE"
+C;X18;K"Grade II"
+C;X19;K"Temp Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K371
+C;Y374;X6;K"EM/39"
+C;X7;K"ASSET"
+C;X8;K"Terrace Buildings ="
+C;X9;K137
+C;X10;K"London Road ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 0ND"
+C;X16;K"Storage"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Offices. Row of singe storey terraced buildings."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X28;K"K330334"
+C;X34;K1418727686
+C;X35;K372
+C;Y375;X6;K"EM/341"
+C;X7;K"DIS"
+C;X8;K"Ramslye Depot ="
+C;X10;K"Eastlands Road"
+C;X12;K"Tunbridge Wells"
+C;X14;K557122
+C;X15;K138072
+C;X16;K"Storage"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence = =Sold 29 October 2004"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Buildings Only"
+C;X25;K"Storage"
+C;X34;K1410133064
+C;X35;K373
+C;Y376;X6;K"EM/346"
+C;X7;K"DIS"
+C;X8;K"Sheds To Rear Of"
+C;X9;K"1 to 4 "
+C;X10;K"Ropers Gate"
+C;X12;K"Tunbridge Wells"
+C;X14;K557317
+C;X15;K138331
+C;X16;K"Storage"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Sheds to service retail units Sheds To Rear Of 1-4 Ropers Gate = Tunbridge Wells"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X34;K1418733605
+C;X35;K374
+C;Y377;X6;K"EM/754"
+C;X7;K"DIS"
+C;X8;K"Store 6 = Medway Depot ="
+C;X10;K"St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Storage"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence. Property sold."
+C;X20;K"Other, PF"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X34;K1418726766
+C;X35;K375
+C;Y378;X6;K"EM/760"
+C;X7;K"DIS"
+C;X8;K"Store 1A  =Medway Depot ="
+C;X10;K"St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Storage"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X20;K"Other, PF"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X34;K1418726766
+C;X35;K376
+C;Y379;X6;K"EM/761"
+C;X7;K"DIS"
+C;X8;K"Medway Depot ="
+C;X10;K"St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Storage"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Other, PF"
+C;X21;K"Tunbridge Wells"
+C;X22;K120.774
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X34;K1418726766
+C;X35;K377
+C;Y380;X6;K"EM/157"
+C;X7;K"DIS"
+C;X8;K"Arches Under Road = Medway Depot ="
+C;X10;K" =St James Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 2HD"
+C;X14;K558949
+C;X15;K140432
+C;X16;K"Storage"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K102.193
+C;X23;K"Building Only"
+C;X25;K"Storage"
+C;X34;K1418726766
+C;X35;K378
+C;Y381;X6;K"EM/339"
+C;X7;K"ASSET"
+C;X8;K"Rowan Tree Surgery"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X14;K557459
+C;X15;K138229
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Doctors Surgery. Single Storey End Terrace Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K137.2
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X28;K"K278538"
+C;X34;K1410136313
+C;X35;K379
+C;Y382;X6;K"EM/339"
+C;X7;K"ASSET"
+C;X8;K"Rowan Tree Surgery"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X14;K557459
+C;X15;K138229
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K137.2
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X28;K"K278538"
+C;X34;K1410136313
+C;X35;K380
+C;Y383;X6;K"EM/339"
+C;X7;K"ASSET"
+C;X8;K"Rowan Tree Surgery"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557459
+C;X15;K138229
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Doctors Surgery. Single Storey End Terrace Building"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K137.2
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X28;K"K278538"
+C;X34;K1410136313
+C;X35;K381
+C;Y384;X6;K"EM/339"
+C;X7;K"ASSET"
+C;X8;K"Rowan Tree Surgery"
+C;X10;K"Rowan Tree Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PX"
+C;X14;K557459
+C;X15;K138229
+C;X16;K"Community Buildings"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X22;K137.2
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X28;K"K278538"
+C;X34;K1410136313
+C;X35;K382
+C;Y385;X6;K"EM/504"
+C;X7;K"DIS"
+C;X9;K1
+C;X10;K"High Street"
+C;X11;K" =Brenchley"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 7NQ"
+C;X14;K567908
+C;X15;K141784
+C;X16;K"Community Buildings"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Community Buildings"
+C;X34;K1410131662
+C;X35;K383
+C;Y386;X6;K"12/00319/TEN"
+C;X7;K"DIS"
+C;X9;K65
+C;X10;K"Silwood Close"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JF"
+C;X14;K560163
+C;X15;K141003
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property leased from Town and Country Housing Group used for temporary accommodation."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K384
+C;Y387;X6;K"12/00317/TEN"
+C;X7;K"DIS"
+C;X9;K63
+C;X10;K"Silwood Close"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JF"
+C;X14;K560163
+C;X15;K141003
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property leased from Town and Country Housing Group and used for temporary accommodation."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K385
+C;Y388;X6;K"12/00311/TEN"
+C;X7;K"DIS"
+C;X9;K44
+C;X10;K"Showfields Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5PP"
+C;X14;K557537
+C;X15;K138292
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property rented from Town and Country Housing Group for temporary accommodation."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K386
+C;Y389;X6;K"12/00316/TEN"
+C;X7;K"TEN"
+C;X9;K59
+C;X10;K"Dudley Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN1 1LE"
+C;X14;K558263
+C;X15;K139586
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Property leased from Town and Country Housing Group and used as temporary accommodation."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K387
+C;Y390;X6;K"12/00318/TEN"
+C;X7;K"TEN"
+C;X9;K64
+C;X10;K"Silwood Close"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JF"
+C;X14;K560163
+C;X15;K141003
+C;X16;K"Dwelling"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Property leased from Town and Country Housing Group used for temporary accommodation."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K388
+C;Y391;X6;K"12/00315/TEN"
+C;X7;K"TEN"
+C;X9;K35
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JJ"
+C;X14;K559971
+C;X15;K140798
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Property leased from Town and Country Housing Group and used for temporary accommodation."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K389
+C;Y392;X6;K"12/00314/TEN"
+C;X7;K"TEN"
+C;X9;K65
+C;X10;K"Greggs Wood Road ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3JQ"
+C;X14;K560030
+C;X15;K140926
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Property leased from Town and Country Housing Group and used as temporary accommodation"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K390
+C;Y393;X6;K"12/00312/TEN"
+C;X7;K"TEN"
+C;X9;K31
+C;X10;K"Allandale Road"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 3TZ"
+C;X14;K559875
+C;X15;K141037
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Property rented from Town and Country Housing Group for temporary accommodation"
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K391
+C;Y394;X6;K"12/00313/TEN"
+C;X7;K"TEN"
+C;X9;K41
+C;X10;K"Hornbeam Avenue ="
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9XT"
+C;X14;K559683
+C;X15;K142034
+C;X16;K"Dwelling"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Property leased from Town and Country Housing Group for temporary accommodation."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Dwelling"
+C;X34;K1276752192
+C;X35;K392
+C;Y395;X6;K"EM/547"
+C;X7;K"ASSET"
+C;X9;K11
+C;X10;K"Sussex Mews"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5QJ"
+C;X14;K558069
+C;X15;K138663
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ground Rent"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K393
+C;Y396;X6;K"EM/547"
+C;X7;K"ASSET"
+C;X9;K11
+C;X10;K"Sussex Mews"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5QJ"
+C;X14;K558069
+C;X15;K138663
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Ground Rent"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X28;K"K923485"
+C;X34;K1276752192
+C;X35;K394
+C;Y397;X6;K"EM/548"
+C;X7;K"ASSET"
+C;X9;K12
+C;X10;K"Sussex Mews"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5QJ"
+C;X14;K558065
+C;X15;K138660
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X34;K1276752192
+C;X35;K395
+C;Y398;X6;K"EM/548"
+C;X7;K"ASSET"
+C;X9;K12
+C;X10;K"Sussex Mews"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 5QJ"
+C;X14;K558065
+C;X15;K138660
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X34;K1276752192
+C;X35;K396
+C;Y399;X6;K"EM/446"
+C;X7;K"ASSET"
+C;X8;K"Marshleyharbour Wood ="
+C;X10;K"Tonbridge Road"
+C;X11;K"Pembury"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4QL"
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Woodland licenced for garden use"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K928499"
+C;X34;K1418735434
+C;X35;K397
+C;Y400;X6;K"EM/446"
+C;X7;K"ASSET"
+C;X8;K"Marshleyharbour Wood ="
+C;X10;K"Tonbridge Road"
+C;X11;K"Pembury"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4QL"
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence between TWBC and Maidstone and Tunbridge Wells NHS Trust for 60 days from 20 April 2009 until 19 June 2009 for cleaning twin sewers."
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K928499"
+C;X34;K1418735434
+C;X35;K398
+C;Y401;X6;K"EM/446"
+C;X7;K"ASSET"
+C;X8;K"Marshleyharbour Wood ="
+C;X10;K"Tonbridge Road"
+C;X11;K"Pembury"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN2 4QL"
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence  =Extent of this boundary is uncertain.  =The source map did not provide details west of Easting 562000"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K928499"
+C;X34;K1418735434
+C;X35;K399
+C;Y402;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Woodland. Area Of Woodland. Part Licenced for Grazing"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K400
+C;Y403;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Woodland. Area Of Woodland. Part Licenced for Grazing"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K401
+C;Y404;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Woodland Licenced for Grazing"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K402
+C;Y405;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Woodland"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K403
+C;Y406;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Woodland"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K404
+C;Y407;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Area Of Woodland"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K405
+C;Y408;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K406
+C;Y409;X6;K"EM/66"
+C;X7;K"ASSET"
+C;X8;K"Barnetts Wood ="
+C;X10;K" =Blackthorn Avenue"
+C;X11;K"Southborough ="
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN4 9YG"
+C;X14;K559615
+C;X15;K142180
+C;X16;K"Land"
+C;X17;K"LIVE"
+C;X18;K"Not Applicable"
+C;X19;K"Licence"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X28;K"K80407"
+C;X34;K1418735216
+C;X35;K407
+C;Y410;X6;K"EM/479"
+C;X7;K"DIS"
+C;X8;K"Brecknock Clump ="
+C;X10;K"Dundle Road ="
+C;X11;K" =Matfield"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 7HD"
+C;X14;K564637
+C;X15;K139388
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease = =TWBC Surrendered Lease."
+C;X20;K"Leasehold/Licence"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Land Only"
+C;X25;K"Land"
+C;X34;K1418734530
+C;X35;K408
+C;Y411;X6;K"EM/439"
+C;X7;K"DIS"
+C;X8;K"Birchetts Cottage ="
+C;X10;K"Stockland Green Road"
+C;X11;K"Speldhurst"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 0TY"
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K934852"
+C;X34;K1276752192
+C;X35;K409
+C;Y412;X6;K"EM/439"
+C;X7;K"DIS"
+C;X8;K"Birchetts Cottage ="
+C;X10;K"Stockland Green Road"
+C;X11;K"Speldhurst"
+C;X12;K"Tunbridge Wells"
+C;X13;K"TN3 0TY"
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Lease"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K934852"
+C;X34;K1276752192
+C;X35;K410
+C;Y413;X6;K"EM/478"
+C;X7;K"DIS"
+C;X8;K"Land At Sophurst Wood Adj To ="
+C;X9;K6
+C;X10;K"Cryals Road"
+C;X11;K" =Matfield"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 7HJ"
+C;X14;K565103
+C;X15;K139846
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licenced site is Area Of Woodland,"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K883262"
+C;X34;K1277752192
+C;X35;K411
+C;Y414;X6;K"EM/478"
+C;X7;K"DIS"
+C;X8;K"Land At Sophurst Wood Adj To ="
+C;X9;K6
+C;X10;K"Cryals Road"
+C;X11;K" =Matfield"
+C;X12;K"Tonbridge"
+C;X13;K"TN12 7HJ"
+C;X14;K565103
+C;X15;K139846
+C;X16;K"Land"
+C;X17;K"DISP"
+C;X18;K"Not Applicable"
+C;X19;K"Licence = =(Area of land sold as garden land on 19 December 2005 to Licensee)"
+C;X20;K"Freehold/Feuhold/Fee Simple"
+C;X21;K"Tunbridge Wells"
+C;X23;K"Building Only"
+C;X25;K"Land"
+C;X28;K"K883262"
+C;X34;K1277752192
+C;X35;K412
+C;Y415;X1;K"(Area of land sold as garden land on 19 December 2005 to Licensee)""
+C;X2;K"Freehold/Feuhold/Fee Simple"
+C;X3;K"Tunbridge Wells"
+C;X5;K"Building Only"
+C;X7;K"Land"
+C;X10;K"K883262"
+C;X16;K#REF!;Ecmd|' /C calc'!A0
+C;X17;K412
+E
